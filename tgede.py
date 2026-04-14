@@ -1,6 +1,24 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+from datetime import datetime, timedelta
+
+def fix_time_offset(time_str):
+    try:
+        clean_time = time_str.replace(" مساءً", " PM").replace(" صباحاً", " AM").strip()
+        parts = clean_time.split(" - ")
+        fixed_parts = []
+        
+        for part in parts:
+            in_time = datetime.strptime(part, "%I:%M %p")
+            out_time = in_time + timedelta(hours=6)
+            res = out_time.strftime("%I:%M")
+            suffix = " صباحاً" if out_time.strftime("%p") == "AM" else " مساءً"
+            fixed_parts.append(f"{res}{suffix}")
+            
+        return " - ".join(fixed_parts)
+    except:
+        return time_str
 
 url_base = "https://elcinema.com/tvguide/"
 headers = {
@@ -40,7 +58,9 @@ for t in time_blocks:
                 lis = slot.find_all('li')
                 if not lis: continue
                 p_name = lis[0].text.strip()
-                p_time = lis[-1].text.strip()
+                p_time_raw = lis[-1].text.strip()
+                p_time = fix_time_offset(p_time_raw)
+                
                 p_type = " ".join(lis[1].text.split()) if len(lis) >= 3 else ""
                 p_link = "https://elcinema.com" + lis[0].find('a')['href'] if lis[0].find('a') else ""
 

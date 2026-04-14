@@ -8,14 +8,12 @@ def fix_time_offset(time_str):
         clean_time = time_str.replace(" مساءً", " PM").replace(" صباحاً", " AM").strip()
         parts = clean_time.split(" - ")
         fixed_parts = []
-        
         for part in parts:
             in_time = datetime.strptime(part, "%I:%M %p")
             out_time = in_time + timedelta(hours=6)
             res = out_time.strftime("%I:%M")
             suffix = " صباحاً" if out_time.strftime("%p") == "AM" else " مساءً"
             fixed_parts.append(f"{res}{suffix}")
-            
         return " - ".join(fixed_parts)
     except:
         return time_str
@@ -26,7 +24,11 @@ headers = {
     "Accept-Language": "ar,en-US;q=0.9,en;q=0.8"
 }
 
-time_blocks = ["00:00", "06:00", "12:00", "18:00"]
+time_blocks = [
+    "00:00", "02:00", "04:00", "06:00", "08:00", "10:00", 
+    "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"
+]
+
 channels_dict = {}
 
 for t in time_blocks:
@@ -60,15 +62,24 @@ for t in time_blocks:
                 p_name = lis[0].text.strip()
                 p_time_raw = lis[-1].text.strip()
                 p_time = fix_time_offset(p_time_raw)
-                
                 p_type = " ".join(lis[1].text.split()) if len(lis) >= 3 else ""
                 p_link = "https://elcinema.com" + lis[0].find('a')['href'] if lis[0].find('a') else ""
 
                 entry = {"name": p_name, "time": p_time, "type": p_type, "link": p_link}
-                if entry not in channels_dict[name]['programs']:
+                
+                is_duplicate = False
+                for existing_prog in channels_dict[name]['programs']:
+                    if existing_prog['name'] == entry['name'] and existing_prog['time'] == entry['time']:
+                        is_duplicate = True
+                        break
+                
+                if not is_duplicate:
                     channels_dict[name]['programs'].append(entry)
     except:
         continue
+
+for channel in channels_dict:
+    channels_dict[channel]['programs'].sort(key=lambda x: x['time'])
 
 final_list = list(channels_dict.values())
 with open('chgede.json', 'w', encoding='utf-8') as f:

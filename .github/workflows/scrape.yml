@@ -2,8 +2,12 @@ name: Daily TV Guide Update
 
 on:
   schedule:
-    - cron: '0 22 * * *' 
-  workflow_dispatch: 
+    - cron: '0 22 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest

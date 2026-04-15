@@ -5,18 +5,27 @@ from datetime import datetime, timedelta
 
 def fix_time_offset(time_str):
     try:
-        clean_time = time_str.replace(" مساءً", " PM").replace(" صباحاً", " AM").strip()
+        clean_time = time_str.replace(" مساءً", " PM").replace(" صباحاً", " AM").replace(" صباحًا", " AM").strip()
         parts = clean_time.split(" - ")
         fixed_parts = []
         for part in parts:
             in_time = datetime.strptime(part, "%I:%M %p")
-            out_time = in_time + timedelta(hours=6)
+            shift = 0 
+            out_time = in_time + timedelta(hours=shift)
             res = out_time.strftime("%I:%M")
             suffix = " صباحاً" if out_time.strftime("%p") == "AM" else " مساءً"
             fixed_parts.append(f"{res}{suffix}")
         return " - ".join(fixed_parts)
     except:
         return time_str
+
+def get_sort_key(time_str):
+    try:
+        first_time = time_str.split(" - ")[0]
+        clean_time = first_time.replace(" مساءً", " PM").replace(" صباحاً", " AM").replace(" صباحًا", " AM").strip()
+        return datetime.strptime(clean_time, "%I:%M %p")
+    except:
+        return datetime.min
 
 url_base = "https://elcinema.com/tvguide/"
 headers = {
@@ -67,19 +76,13 @@ for t in time_blocks:
 
                 entry = {"name": p_name, "time": p_time, "type": p_type, "link": p_link}
                 
-                is_duplicate = False
-                for existing_prog in channels_dict[name]['programs']:
-                    if existing_prog['name'] == entry['name'] and existing_prog['time'] == entry['time']:
-                        is_duplicate = True
-                        break
-                
-                if not is_duplicate:
+                if not any(prog['name'] == entry['name'] and prog['time'] == entry['time'] for prog in channels_dict[name]['programs']):
                     channels_dict[name]['programs'].append(entry)
     except:
         continue
 
 for channel in channels_dict:
-    channels_dict[channel]['programs'].sort(key=lambda x: x['time'])
+    channels_dict[channel]['programs'].sort(key=lambda x: get_sort_key(x['time']))
 
 final_list = list(channels_dict.values())
 with open('chgede.json', 'w', encoding='utf-8') as f:

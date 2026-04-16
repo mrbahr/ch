@@ -1,19 +1,17 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 
 def fix_time_offset(time_str):
     try:
-        clean_time = time_str.replace(" مساءً", " PM").replace(" صباحاً", " AM").replace(" صباحًا", " AM").strip()
+        clean_time = time_str.replace(" مساءً", " PM").replace(" صباحاً", " AM").replace(" صباحًا", " AM").replace(" مساءًا", " PM").strip()
         parts = clean_time.split(" - ")
         fixed_parts = []
         for part in parts:
-            in_time = datetime.strptime(part, "%I:%M %p")
-            shift = 0 
-            out_time = in_time + timedelta(hours=shift)
-            res = out_time.strftime("%I:%M")
-            suffix = " صباحاً" if out_time.strftime("%p") == "AM" else " مساءً"
+            in_time = datetime.strptime(part.strip(), "%I:%M %p")
+            res = in_time.strftime("%I:%M")
+            suffix = " AM" if in_time.strftime("%p") == "AM" else " PM"
             fixed_parts.append(f"{res}{suffix}")
         return " - ".join(fixed_parts)
     except:
@@ -22,8 +20,7 @@ def fix_time_offset(time_str):
 def get_sort_key(time_str):
     try:
         first_time = time_str.split(" - ")[0]
-        clean_time = first_time.replace(" مساءً", " PM").replace(" صباحاً", " AM").replace(" صباحًا", " AM").strip()
-        return datetime.strptime(clean_time, "%I:%M %p")
+        return datetime.strptime(first_time.strip(), "%I:%M %p")
     except:
         return datetime.min
 
@@ -33,11 +30,7 @@ headers = {
     "Accept-Language": "ar,en-US;q=0.9,en;q=0.8"
 }
 
-time_blocks = [
-    "00:00", "02:00", "04:00", "06:00", "08:00", "10:00", 
-    "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"
-]
-
+time_blocks = ["00:00", "02:00", "04:00", "06:00", "08:00", "10:00", "12:00", "14:00", "16:00", "18:00", "20:00", "22:00"]
 channels_dict = {}
 
 for t in time_blocks:
@@ -51,7 +44,6 @@ for t in time_blocks:
             channel_div = line.find('div', class_='channel')
             if not channel_div: continue
             
-            img_tag = channel_div.find('img')
             name = ""
             for a in channel_div.find_all('a'):
                 if a.get('title') and a.get('title') != "أضف إلى مفضلاتك":
@@ -59,6 +51,7 @@ for t in time_blocks:
                     break
             
             if not name: continue
+            img_tag = channel_div.find('img')
             logo = img_tag.get('data-src') or img_tag.get('src', '') if img_tag else ""
 
             if name not in channels_dict:
@@ -75,7 +68,6 @@ for t in time_blocks:
                 p_link = "https://elcinema.com" + lis[0].find('a')['href'] if lis[0].find('a') else ""
 
                 entry = {"name": p_name, "time": p_time, "type": p_type, "link": p_link}
-                
                 if not any(prog['name'] == entry['name'] and prog['time'] == entry['time'] for prog in channels_dict[name]['programs']):
                     channels_dict[name]['programs'].append(entry)
     except:

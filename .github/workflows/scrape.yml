@@ -14,6 +14,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,7 +32,13 @@ jobs:
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+          
+          
+          git fetch origin main
+          
+        
+          git reset --soft FETCH_HEAD
+          
           git add chgede.json
           git commit -m "Update TV Guide Data" || exit 0
-          git pull origin main --rebase
           git push origin main

@@ -4,8 +4,14 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1145_2.png",
         "programs": [
             {
-                "name": "برنامج مساء جديد",
-                "time": "02:00 PM - 05:00 PM",
+                "name": "برنامج ستاد المحور",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "فيلم",
+                "time": "06:00 PM - 09:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -16,28 +22,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1269_2.png",
         "programs": [
             {
-                "name": "بدل تالف",
-                "time": "01:15 PM - 02:10 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2098477/"
-            },
-            {
-                "name": "ميليشيات نسائية",
-                "time": "02:10 PM - 03:00 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2091265/"
-            },
-            {
-                "name": "برنامج أطراف الحديث",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
                 "name": "برنامج",
-                "time": "04:00 PM - 05:00 PM",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
+            },
+            {
+                "name": "صباح الشرقية",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "برنامج (2016)",
+                "link": "https://elcinema.com/work/2052866/"
+            },
+            {
+                "name": "محتوى خابط",
+                "time": "07:00 PM - 07:30 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2078314/"
             }
         ]
     },
@@ -46,16 +46,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1128_2.png",
         "programs": [
             {
-                "name": "In the Heights",
-                "time": "12:30 PM - 03:30 PM",
-                "type": "فيلم (2021)",
-                "link": "https://elcinema.com/work/2060636/"
-            },
-            {
                 "name": "The Dark Knight",
                 "time": "03:30 PM - 06:00 PM",
                 "type": "فيلم (2008)",
                 "link": "https://elcinema.com/work/1785890/"
+            },
+            {
+                "name": "Chaos Walking",
+                "time": "06:00 PM - 07:59 PM",
+                "type": "فيلم (2021)",
+                "link": "https://elcinema.com/work/2047732/"
             }
         ]
     },
@@ -64,16 +64,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1226_2.png",
         "programs": [
             {
-                "name": "برنامج على مسؤليتي",
-                "time": "02:00 PM - 03:30 PM",
-                "type": "",
-                "link": ""
-            },
-            {
                 "name": "أحلى أيام",
                 "time": "03:30 PM - 05:30 PM",
                 "type": "مسلسل - سيت كوم (2013)",
                 "link": "https://elcinema.com/work/2020132/"
+            },
+            {
+                "name": "برنامج الماتش",
+                "time": "05:30 PM - 06:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج أنا وهو وهي",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "ريا وسكينة",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2005)",
+                "link": "https://elcinema.com/work/1326791/"
             }
         ]
     },
@@ -82,22 +94,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1136_2.png",
         "programs": [
             {
-                "name": "برنامج وزن",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج الممر",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
                 "name": "Hitchcock",
                 "time": "04:00 PM - 06:00 PM",
                 "type": "فيلم (2012)",
                 "link": "https://elcinema.com/work/2010299/"
+            },
+            {
+                "name": "برنامج وثائقي",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج علوم الدار",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "",
+                "link": ""
             }
         ]
     },
@@ -106,34 +118,40 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1317_2.png",
         "programs": [
             {
-                "name": "برنامج خير يبقي",
-                "time": "02:00 PM - 02:20 PM",
+                "name": "البرنامج الثقافي البحث عن المعرفة",
+                "time": "05:00 PM - 05:20 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج سؤال اهل الذكر",
-                "time": "02:20 PM - 03:00 PM",
+                "name": "Hudson and Rex S3",
+                "time": "05:20 PM - 06:00 PM",
+                "type": "مسلسل (2021)",
+                "link": "https://elcinema.com/work/2077840/"
+            },
+            {
+                "name": "نشرة اخبار الواحدة",
+                "time": "06:00 PM - 06:30 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "نشرة أخبار العاشرة",
-                "time": "03:00 PM - 04:00 PM",
+                "name": "برنامج مسار/اما بعد",
+                "time": "06:30 PM - 06:55 PM",
                 "type": "",
                 "link": ""
             },
             {
                 "name": "برنامج متون",
-                "time": "04:00 PM - 04:25 PM",
+                "time": "06:55 PM - 07:20 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "عطر الشام ج3",
-                "time": "04:25 PM - 04:55 PM",
-                "type": "مسلسل (2018)",
-                "link": "https://elcinema.com/work/2051334/"
+                "name": "ليالي روكسي",
+                "time": "07:20 PM - 08:00 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2088942/"
             }
         ]
     },
@@ -142,32 +160,8 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1272_2.png",
         "programs": [
             {
-                "name": "Wheeler dealers  -  Audi TT",
-                "time": "01:20 PM - 02:10 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "How Do They Do It?  -  Cooking Pans And More",
-                "time": "02:10 PM - 02:35 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "How Do They Do It?  -  Sitar, Biltong And Bulldozers",
-                "time": "02:35 PM - 03:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "Shed and Buried: Classic Cars  -  1950s Armstrong Siddeley Hurricane",
-                "time": "03:00 PM - 03:55 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "Salvage Hunters: The Restorers  -  Monster Model Boat",
-                "time": "03:55 PM - 04:50 PM",
+                "name": "Filthy Fortunes  -  The Maine Stash Of Cash",
+                "time": "04:50 PM - 05:45 PM",
                 "type": "",
                 "link": ""
             }
@@ -178,28 +172,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1366_2.png",
         "programs": [
             {
-                "name": "صراخ الصمت",
-                "time": "01:30 PM - 02:30 PM",
-                "type": "مسلسل (1998)",
-                "link": "https://elcinema.com/work/2053909/"
-            },
-            {
-                "name": "برنامج إختلاف على الهواء",
-                "time": "02:30 PM - 03:00 PM",
+                "name": "برنامج الإجازة والصيف",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "خطوات على الجبال",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2003)",
-                "link": "https://elcinema.com/work/1935518/"
+                "name": "وجوه بلا ملامح",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (1999)",
+                "link": "https://elcinema.com/work/2025453/"
             },
             {
-                "name": "كف القدر",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (1980)",
-                "link": "https://elcinema.com/work/2044648/"
+                "name": "مقادير",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (1998)",
+                "link": "https://elcinema.com/work/2065217/"
             }
         ]
     },
@@ -208,22 +196,10 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1373_2.png",
         "programs": [
             {
-                "name": "البحر الأسود",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2018)",
-                "link": "https://elcinema.com/work/2061768/"
-            },
-            {
-                "name": "Wounded Birds",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2019)",
-                "link": "https://elcinema.com/work/2068130/"
-            },
-            {
-                "name": "Establishment: Osman S2",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2020)",
-                "link": "https://elcinema.com/work/2066667/"
+                "name": "فيلم",
+                "time": "05:00 PM - 08:00 PM",
+                "type": "",
+                "link": ""
             }
         ]
     },
@@ -232,14 +208,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1193_2.png",
         "programs": [
             {
-                "name": "برنامج أخر النهار",
-                "time": "01:30 PM - 03:00 PM",
+                "name": "برنامج الناظر",
+                "time": "04:30 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج الصورة مع لميس الحديدي",
-                "time": "03:00 PM - 04:30 PM",
+                "name": "السوق الحرة",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2026)",
+                "link": "https://elcinema.com/work/2098009/"
+            },
+            {
+                "name": "برنامج أخر النهار",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -250,22 +232,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1204_2.png",
         "programs": [
             {
-                "name": "سيدة العمارة",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2018)",
-                "link": "https://elcinema.com/work/2074592/"
+                "name": "Capital S7",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2101707/"
             },
             {
-                "name": "Gando S2",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2021)",
-                "link": "https://elcinema.com/work/2073806/"
+                "name": "أربع شقق",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2007)",
+                "link": "https://elcinema.com/work/2070252/"
             },
             {
-                "name": "مهندس أفندي ج4",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2021)",
-                "link": "https://elcinema.com/work/2101505/"
+                "name": "الروح الطيبة",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2008)",
+                "link": "https://elcinema.com/work/2070251/"
             }
         ]
     },
@@ -274,20 +256,14 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1301_2.png",
         "programs": [
             {
-                "name": "نشرة اخبار السومرية",
-                "time": "01:45 PM - 02:30 PM",
-                "type": "",
-                "link": ""
+                "name": "نقطة انتهى",
+                "time": "04:30 PM - 05:30 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2084042/"
             },
             {
-                "name": "وتقابل حبيب",
-                "time": "02:30 PM - 03:30 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2089079/"
-            },
-            {
-                "name": "برنامج عشرين",
-                "time": "03:30 PM - 04:30 PM",
+                "name": "برنامج live talk",
+                "time": "05:30 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -298,22 +274,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1169_2.png",
         "programs": [
             {
-                "name": "Baba",
-                "time": "02:00 PM - 02:30 PM",
-                "type": "مسلسل (2022)",
-                "link": "https://elcinema.com/work/2077165/"
-            },
-            {
-                "name": "أخبار الإمارات",
-                "time": "02:30 PM - 03:30 PM",
+                "name": "برنامج شطرنج",
+                "time": "04:30 PM - 05:30 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج شيفرة",
-                "time": "03:30 PM - 04:30 PM",
-                "type": "",
-                "link": ""
+                "name": "Il paradiso delle signore S5",
+                "time": "05:30 PM - 06:30 PM",
+                "type": "مسلسل (2020)",
+                "link": "https://elcinema.com/work/2067393/"
+            },
+            {
+                "name": "Rise of the Raven",
+                "time": "06:30 PM - 07:30 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2099851/"
             }
         ]
     },
@@ -322,22 +298,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1252_2.png",
         "programs": [
             {
-                "name": "برنامج العباقرة",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "",
-                "link": ""
+                "name": "الناس الحلوة",
+                "time": "05:00 PM - 07:00 PM",
+                "type": "برنامج (2017)",
+                "link": "https://elcinema.com/work/2051644/"
             },
             {
-                "name": "برنامج البيه والهانم",
-                "time": "03:00 PM - 04:00 PM",
+                "name": "برنامج حديث القاهرة",
+                "time": "07:00 PM - 08:45 PM",
                 "type": "",
                 "link": ""
-            },
-            {
-                "name": "وعود سخية",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2077906/"
             }
         ]
     },
@@ -346,26 +316,8 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1308_2.png",
         "programs": [
             {
-                "name": "حسابات وعقابات",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2004)",
-                "link": "https://elcinema.com/work/2045776/"
-            },
-            {
-                "name": "باب البنات: صبرية في السبعينات",
-                "time": "03:00 PM - 03:30 PM",
-                "type": "مسلسل - سيت كوم (2026)",
-                "link": "https://elcinema.com/work/2098743/"
-            },
-            {
-                "name": "برنامج محلاها بلادي... تونس البية",
-                "time": "03:30 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "نشرة الثامنة الأخبار",
-                "time": "04:00 PM - 04:35 PM",
+                "name": "برنامج الأحد الرياضي",
+                "time": "04:45 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -376,16 +328,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1322_2.png",
         "programs": [
             {
-                "name": "Becoming Led Zeppelin",
-                "time": "01:00 PM - 03:00 PM",
-                "type": "فيلم (2025)",
-                "link": "https://elcinema.com/work/2091061/"
-            },
-            {
                 "name": "Mission: Impossible - The Final Reckoning",
                 "time": "03:00 PM - 05:45 PM",
                 "type": "فيلم (2025)",
                 "link": "https://elcinema.com/work/2061167/"
+            },
+            {
+                "name": "Don't Let's Go to the Dogs Tonight",
+                "time": "05:45 PM - 07:30 PM",
+                "type": "فيلم (2024)",
+                "link": "https://elcinema.com/work/2092890/"
             }
         ]
     },
@@ -394,22 +346,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1328_2.png",
         "programs": [
             {
-                "name": "King & Conqueror",
-                "time": "02:00 PM - 03:00 PM",
+                "name": "Tulsa King S3",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2097658/"
+                "link": "https://elcinema.com/work/2095863/"
             },
             {
-                "name": "Dexter: Resurrection",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2095465/"
+                "name": "Dexter S7",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2012)",
+                "link": "https://elcinema.com/work/2067953/"
             },
             {
-                "name": "The Moment of Truth",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "برنامج (2008)",
-                "link": "https://elcinema.com/work/2076907/"
+                "name": "From",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2074579/"
             }
         ]
     },
@@ -418,16 +370,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1289_2.png",
         "programs": [
             {
-                "name": "كلبي دليلي",
-                "time": "02:00 PM - 04:00 PM",
-                "type": "فيلم (2013)",
-                "link": "https://elcinema.com/work/2017531/"
-            },
-            {
                 "name": "فضل ونعمة",
                 "time": "04:00 PM - 06:00 PM",
                 "type": "فيلم (2022)",
                 "link": "https://elcinema.com/work/2075533/"
+            },
+            {
+                "name": "واحد صعيدي",
+                "time": "06:00 PM - 08:00 PM",
+                "type": "فيلم (2014)",
+                "link": "https://elcinema.com/work/1341537/"
             }
         ]
     },
@@ -436,28 +388,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1129_2.png",
         "programs": [
             {
-                "name": "Güller ve Günahlar",
-                "time": "01:55 PM - 02:30 PM",
+                "name": "The Voice Kids S4",
+                "time": "04:30 PM - 06:00 PM",
+                "type": "برنامج - برنامج ترفيهي (2026)",
+                "link": "https://elcinema.com/work/2099381/"
+            },
+            {
+                "name": "Motel California",
+                "time": "06:00 PM - 07:03 PM",
                 "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2096895/"
+                "link": "https://elcinema.com/work/2101666/"
             },
             {
-                "name": "Only 17 Years Old",
-                "time": "02:30 PM - 03:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2100899/"
-            },
-            {
-                "name": "Wild Heart",
-                "time": "03:00 PM - 03:35 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2082851/"
-            },
-            {
-                "name": "إش إش",
-                "time": "03:35 PM - 04:30 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2087894/"
+                "name": "I Am Mother S2",
+                "time": "07:03 PM - 08:00 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2096151/"
             }
         ]
     },
@@ -466,22 +412,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1313_2.png",
         "programs": [
             {
-                "name": "حكم الهوى",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2017)",
-                "link": "https://elcinema.com/work/2019613/"
-            },
-            {
-                "name": "كسر عضم ج2: السراديب",
-                "time": "03:00 PM - 04:00 PM",
+                "name": "بيت أهلي",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2077946/"
+                "link": "https://elcinema.com/work/2083725/"
             },
             {
-                "name": "برنامج Album",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "",
-                "link": ""
+                "name": "سحر الشرق",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2001)",
+                "link": "https://elcinema.com/work/1243465/"
+            },
+            {
+                "name": "عطر الشام ج1",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2016)",
+                "link": "https://elcinema.com/work/1404129/"
             }
         ]
     },
@@ -490,22 +436,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1367_2.png",
         "programs": [
             {
-                "name": "برنامج",
-                "time": "02:00 PM - 03:00 PM",
+                "name": "برنامج هاتريك",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج وثائقي",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "",
-                "link": ""
+                "name": "سعادة المجنون",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2026)",
+                "link": "https://elcinema.com/work/2097143/"
             },
             {
-                "name": "مشاعر",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2078452/"
+                "name": "عودة المنتقم",
+                "time": "07:00 PM - 07:30 PM",
+                "type": "مسلسل (2017)",
+                "link": "https://elcinema.com/work/2056948/"
             }
         ]
     },
@@ -514,20 +460,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1119_2.png",
         "programs": [
             {
-                "name": "فوق مستوى الشبهات",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2016)",
-                "link": "https://elcinema.com/work/2028642/"
-            },
-            {
-                "name": "التاسعة",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "برنامج (2020)",
-                "link": "https://elcinema.com/work/2025107/"
-            },
-            {
                 "name": "برنامج من ماسبيرو",
                 "time": "04:00 PM - 06:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج رقم 10",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -538,22 +484,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1194_2.png",
         "programs": [
             {
-                "name": "The Pit  S3",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2019)",
-                "link": "https://elcinema.com/work/2066220/"
+                "name": "المداح ج3: أسطورة العشق",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2077303/"
             },
             {
-                "name": "بيت العنكبوت",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2083953/"
+                "name": "باب الحارة ج3",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2008)",
+                "link": "https://elcinema.com/work/1667786/"
             },
             {
-                "name": "Lost in Someone's Love",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2020)",
-                "link": "https://elcinema.com/work/2071082/"
+                "name": "Three Kingdoms",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2010)",
+                "link": "https://elcinema.com/work/2043224/"
             }
         ]
     },
@@ -562,16 +508,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1232_2.png",
         "programs": [
             {
-                "name": "Mix Master S2",
-                "time": "02:00 PM - 03:10 PM",
-                "type": "مسلسل - رسوم متحركة (2010)",
-                "link": "https://elcinema.com/work/2096268/"
+                "name": "Lego City Adventures",
+                "time": "05:00 PM - 05:55 PM",
+                "type": "مسلسل - رسوم متحركة (2019)",
+                "link": "https://elcinema.com/work/2095694/"
             },
             {
-                "name": "Dragons: The Nine Realms S2",
-                "time": "03:10 PM - 04:30 PM",
-                "type": "مسلسل (2022)",
-                "link": "https://elcinema.com/work/2084103/"
+                "name": "Dino Pops",
+                "time": "05:55 PM - 07:00 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2093095/"
+            },
+            {
+                "name": "Dino Pops",
+                "time": "07:00 PM - 07:30 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2093095/"
             }
         ]
     },
@@ -580,28 +532,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1239_2.png",
         "programs": [
             {
-                "name": "المداح ج4: أسطورة العودة",
-                "time": "01:12 PM - 02:05 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2083414/"
-            },
-            {
-                "name": "Golden Boy S2",
-                "time": "02:05 PM - 03:00 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2083608/"
-            },
-            {
-                "name": "الست موناليزا",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2097084/"
-            },
-            {
                 "name": "الحكاية مع عمرو أديب",
                 "time": "04:00 PM - 06:30 PM",
                 "type": "برنامج (2018)",
                 "link": "https://elcinema.com/work/2002232/"
+            },
+            {
+                "name": "المداح ج4: أسطورة العودة",
+                "time": "06:30 PM - 07:30 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2083414/"
             }
         ]
     },
@@ -610,40 +550,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1312_2.png",
         "programs": [
             {
-                "name": "زواجي محال",
-                "time": "02:00 PM - 02:30 PM",
-                "type": "مسلسل (2019)",
-                "link": "https://elcinema.com/work/2057730/"
-            },
-            {
-                "name": "ﺍﻷﺧﺒﺎﺭ . ﺍﻷﺧﺒﺎﺭ ﺍﻟﻔﺮﻧﺴﻴﺔ",
-                "time": "02:30 PM - 02:50 PM",
+                "name": "ﺍﻷﺧﺒﺎﺭ . ﺍﻷﺧﺒﺎﺭ ﺍﻟﺮﺋﻴﺴﻴﺔ",
+                "time": "05:00 PM - 05:50 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج مدن عتيقة",
-                "time": "02:50 PM - 03:00 PM",
+                "name": "أحوال الطقس",
+                "time": "05:50 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج رقمي 100 %",
-                "time": "03:00 PM - 03:20 PM",
+                "name": "برنامج امالاي",
+                "time": "06:00 PM - 07:10 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "بات بنتو",
-                "time": "03:20 PM - 03:30 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2101606/"
-            },
-            {
-                "name": "أنا وأنت",
-                "time": "03:30 PM - 04:40 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2091682/"
+                "name": "النشرة الإخبارية الأخيرة",
+                "time": "07:10 PM - 07:30 PM",
+                "type": "",
+                "link": ""
             }
         ]
     },
@@ -652,22 +580,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1173_2.png",
         "programs": [
             {
-                "name": "برنامج Hollywood News Feed",
-                "time": "02:00 PM - 02:30 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "Sweet Diva",
-                "time": "02:30 PM - 03:30 PM",
-                "type": "مسلسل (2019)",
-                "link": "https://elcinema.com/work/2089666/"
-            },
-            {
                 "name": "An Acceptable Loss",
                 "time": "03:30 PM - 05:30 PM",
                 "type": "فيلم (2018)",
                 "link": "https://elcinema.com/work/2055529/"
+            },
+            {
+                "name": "Barney Thomson",
+                "time": "05:30 PM - 07:30 PM",
+                "type": "فيلم (2015)",
+                "link": "https://elcinema.com/work/2037993/"
             }
         ]
     },
@@ -676,22 +598,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1261_2.png",
         "programs": [
             {
-                "name": "Witches",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2020)",
-                "link": "https://elcinema.com/work/2082265/"
+                "name": "Kundali Bhagya",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2017)",
+                "link": "https://elcinema.com/work/2061760/"
             },
             {
-                "name": "توابع",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2097094/"
+                "name": "The Stickman",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2084616/"
             },
             {
-                "name": "Jamai No. 1",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2101146/"
+                "name": "The Trusted",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2021)",
+                "link": "https://elcinema.com/work/2072082/"
             }
         ]
     },
@@ -700,28 +622,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1314_2.png",
         "programs": [
             {
-                "name": "نشرة الاخبار الرئيسية",
-                "time": "02:00 PM - 03:00 PM",
+                "name": "نشرة الأخبار",
+                "time": "05:00 PM - 05:05 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "ولاد سلطان",
+                "time": "05:05 PM - 06:00 PM",
+                "type": "مسلسل (2020)",
+                "link": "https://elcinema.com/work/2065574/"
+            },
+            {
+                "name": "برنامج بيت للكل",
+                "time": "06:00 PM - 07:00 PM",
                 "type": "",
                 "link": ""
             },
             {
                 "name": "ذياب هباب الريح",
-                "time": "03:00 PM - 03:40 PM",
+                "time": "07:00 PM - 07:40 PM",
                 "type": "مسلسل (2022)",
                 "link": "https://elcinema.com/work/2073581/"
-            },
-            {
-                "name": "صورة مع صورة",
-                "time": "03:40 PM - 04:00 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2092643/"
-            },
-            {
-                "name": "برنامج مسارات",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "",
-                "link": ""
             }
         ]
     },
@@ -730,14 +652,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1149_2.png",
         "programs": [
             {
-                "name": "برنامج يا هلا",
-                "time": "02:00 PM - 03:00 PM",
+                "name": "برنامج روتانا سبورت مع وليد",
+                "time": "05:00 PM - 06:30 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج في الصورة ج7",
-                "time": "03:00 PM - 05:00 PM",
+                "name": "لعبة السعادة",
+                "time": "06:30 PM - 07:00 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2071021/"
+            },
+            {
+                "name": "برنامج يا هلا",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -748,16 +676,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1148_2.png",
         "programs": [
             {
-                "name": "العالمي",
-                "time": "01:00 PM - 03:00 PM",
-                "type": "فيلم (2009)",
-                "link": "https://elcinema.com/work/1168250/"
+                "name": "الكنز 2: الحب والمصير",
+                "time": "05:00 PM - 07:00 PM",
+                "type": "فيلم (2019)",
+                "link": "https://elcinema.com/work/2048727/"
             },
             {
-                "name": "خط دم",
-                "time": "03:00 PM - 05:00 PM",
-                "type": "فيلم (2020)",
-                "link": "https://elcinema.com/work/2066608/"
+                "name": "الهروب",
+                "time": "07:00 PM - 09:00 PM",
+                "type": "فيلم (1991)",
+                "link": "https://elcinema.com/work/1003287/"
             }
         ]
     },
@@ -766,22 +694,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1278_2.png",
         "programs": [
             {
-                "name": "صلة رحم",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2082846/"
+                "name": "برنامج الكورة مع فايق",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "",
+                "link": ""
             },
             {
-                "name": "الخائن",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2082862/"
+                "name": "Bade Achhe Lagte Hain 4",
+                "time": "06:00 PM - 06:45 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2099253/"
             },
             {
-                "name": "سك على إخواتك",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2018)",
-                "link": "https://elcinema.com/work/1715417/"
+                "name": "نصيبي وقسمتك 2",
+                "time": "06:45 PM - 08:00 PM",
+                "type": "مسلسل (2017)",
+                "link": "https://elcinema.com/work/2047797/"
             }
         ]
     },
@@ -790,20 +718,32 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1401_2.png",
         "programs": [
             {
-                "name": "برنامج بعد المداولة",
-                "time": "01:30 PM - 02:30 PM",
+                "name": "برنامج تسجيل خروج",
+                "time": "03:00 PM - 05:10 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "الدم الواحد",
-                "time": "02:30 PM - 03:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2101071/"
+                "name": "برنامج مقهى الحكمة",
+                "time": "05:10 PM - 05:50 PM",
+                "type": "",
+                "link": ""
             },
             {
-                "name": "برنامج تسجيل خروج",
-                "time": "03:00 PM - 05:10 PM",
+                "name": "برنامج أوتوبيس 333",
+                "time": "05:50 PM - 06:30 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج عسير ترحب",
+                "time": "06:30 PM - 07:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج بعد المداولة",
+                "time": "07:00 PM - 07:35 PM",
                 "type": "",
                 "link": ""
             }
@@ -814,16 +754,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1391_2.png",
         "programs": [
             {
-                "name": "One for the Money",
-                "time": "01:30 PM - 03:00 PM",
-                "type": "فيلم (2012)",
-                "link": "https://elcinema.com/work/2006796/"
+                "name": "Chatroom",
+                "time": "04:45 PM - 06:20 PM",
+                "type": "فيلم (2010)",
+                "link": "https://elcinema.com/work/2029697/"
             },
             {
-                "name": "The Frozen Ground",
-                "time": "03:00 PM - 04:45 PM",
+                "name": "Broken City",
+                "time": "06:20 PM - 08:05 PM",
                 "type": "فيلم (2013)",
-                "link": "https://elcinema.com/work/2025544/"
+                "link": "https://elcinema.com/work/2006196/"
             }
         ]
     },
@@ -832,22 +772,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1199_2.png",
         "programs": [
             {
-                "name": "خطوط حمراء",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2012)",
-                "link": "https://elcinema.com/work/2008070/"
+                "name": "وتر حساس ج2",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2095665/"
             },
             {
-                "name": "ستهم",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2076689/"
+                "name": "الشارع اللي ورانا",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2018)",
+                "link": "https://elcinema.com/work/2047318/"
             },
             {
-                "name": "مناعة",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2097616/"
+                "name": "بيت الرفاعي",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2082804/"
             }
         ]
     },
@@ -856,32 +796,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1383_2.png",
         "programs": [
             {
-                "name": "برنامج وثائقي عالم السرعة",
-                "time": "02:00 PM - 02:30 PM",
+                "name": "برنامج ملعب الوسط",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج تريندينج",
-                "time": "02:30 PM - 03:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج الثامنة",
-                "time": "03:00 PM - 03:30 PM",
-                "type": "",
-                "link": ""
+                "name": "عملة نادرة",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2077130/"
             },
             {
                 "name": "برنامج",
-                "time": "03:30 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج وسط الخبر",
-                "time": "04:00 PM - 05:00 PM",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -892,22 +820,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1177_2.png",
         "programs": [
             {
-                "name": "برنامج رواق الفكر",
-                "time": "02:00 PM - 03:00 PM",
+                "name": "سبع أبواب",
+                "time": "04:30 PM - 05:30 PM",
+                "type": "مسلسل (2020)",
+                "link": "https://elcinema.com/work/2003605/"
+            },
+            {
+                "name": "ورثة بن عاقول",
+                "time": "05:30 PM - 06:00 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2082151/"
+            },
+            {
+                "name": "برنامج نسيج",
+                "time": "06:00 PM - 06:30 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "الاخبار المحلية",
-                "time": "03:00 PM - 03:30 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "في دروب السعي مظالم",
-                "time": "03:30 PM - 04:30 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2077051/"
+                "name": "لا موسيقى في الأحمدي",
+                "time": "06:30 PM - 07:30 PM",
+                "type": "مسلسل (2019)",
+                "link": "https://elcinema.com/work/2049670/"
             }
         ]
     },
@@ -916,16 +850,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1213_2.png",
         "programs": [
             {
-                "name": "Superman",
-                "time": "12:55 PM - 03:00 PM",
-                "type": "فيلم (2025)",
-                "link": "https://elcinema.com/work/2089208/"
-            },
-            {
                 "name": "Mickey 17",
                 "time": "03:00 PM - 05:15 PM",
                 "type": "فيلم (2025)",
                 "link": "https://elcinema.com/work/2077018/"
+            },
+            {
+                "name": "One Battle After Another",
+                "time": "05:15 PM - 07:55 PM",
+                "type": "فيلم (2025)",
+                "link": "https://elcinema.com/work/2093308/"
             }
         ]
     },
@@ -934,46 +868,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1134_2.png",
         "programs": [
             {
-                "name": "ورا كل باب ج2",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2021)",
-                "link": "https://elcinema.com/work/2070716/"
+                "name": "الكبير أوي ج8",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2083125/"
             },
             {
-                "name": "نصيبي وقسمتك 4",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2021)",
-                "link": "https://elcinema.com/work/2071995/"
+                "name": "راجعين يا هوى",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2072537/"
             },
             {
-                "name": "فن الحرب",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2096564/"
-            }
-        ]
-    },
-    {
-        "channel_name": "الحياة",
-        "channel_logo": "https://media0106.elcinema.com/tvguide/1137_2.png",
-        "programs": [
-            {
-                "name": "الحياة اليوم",
-                "time": "01:00 PM - 02:30 PM",
-                "type": "برنامج (2011)",
-                "link": "https://elcinema.com/work/2006024/"
-            },
-            {
-                "name": "حكاية نرجس",
-                "time": "02:30 PM - 03:30 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2097947/"
-            },
-            {
-                "name": "واحد من الناس",
-                "time": "03:30 PM - 04:30 PM",
-                "type": "برنامج (2008)",
-                "link": "https://elcinema.com/work/2006123/"
+                "name": "إسماعيل يس (أبو ضحكة جنان)",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2009)",
+                "link": "https://elcinema.com/work/1011650/"
             }
         ]
     },
@@ -982,22 +892,34 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1323_2.png",
         "programs": [
             {
-                "name": "Jack Reacher: Never Go Back",
-                "time": "12:15 PM - 02:15 PM",
-                "type": "فيلم (2016)",
-                "link": "https://elcinema.com/work/2042444/"
-            },
-            {
-                "name": "After Earth",
-                "time": "02:15 PM - 04:00 PM",
-                "type": "فيلم (2013)",
-                "link": "https://elcinema.com/work/2009663/"
-            },
-            {
                 "name": "Captain Phillips",
                 "time": "04:00 PM - 06:15 PM",
                 "type": "فيلم (2013)",
                 "link": "https://elcinema.com/work/2005106/"
+            },
+            {
+                "name": "xXx: The Return of Xander Cage",
+                "time": "06:15 PM - 07:59 PM",
+                "type": "فيلم (2017)",
+                "link": "https://elcinema.com/work/2041827/"
+            }
+        ]
+    },
+    {
+        "channel_name": "الحياة",
+        "channel_logo": "https://media0106.elcinema.com/tvguide/1137_2.png",
+        "programs": [
+            {
+                "name": "برنامج كورة كل يوم",
+                "time": "04:30 PM - 06:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج",
+                "time": "06:00 PM - 08:00 PM",
+                "type": "",
+                "link": ""
             }
         ]
     },
@@ -1006,16 +928,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1358_2.png",
         "programs": [
             {
-                "name": "خير وبركة",
-                "time": "02:00 PM - 04:00 PM",
-                "type": "فيلم (2017)",
-                "link": "https://elcinema.com/work/2046547/"
-            },
-            {
                 "name": "مستر إكس",
                 "time": "04:00 PM - 06:00 PM",
                 "type": "فيلم (2023)",
                 "link": "https://elcinema.com/work/2073079/"
+            },
+            {
+                "name": "بنات حواء",
+                "time": "06:00 PM - 08:00 PM",
+                "type": "فيلم (1954)",
+                "link": "https://elcinema.com/work/1875715/"
             }
         ]
     },
@@ -1024,28 +946,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1374_2.png",
         "programs": [
             {
+                "name": "مبروك جالك قلق",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2005)",
+                "link": "https://elcinema.com/work/1136416/"
+            },
+            {
                 "name": "برنامج",
-                "time": "02:00 PM - 03:00 PM",
+                "time": "06:00 PM - 07:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "أخبار",
-                "time": "03:00 PM - 03:30 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج تسديدات",
-                "time": "03:30 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج سمرة",
-                "time": "04:00 PM - 04:30 PM",
-                "type": "",
-                "link": ""
+                "name": "رياح السموم",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2020)",
+                "link": "https://elcinema.com/work/2054047/"
             }
         ]
     },
@@ -1054,28 +970,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1264_2.png",
         "programs": [
             {
-                "name": "علوم الإمارات + كليبات وطنية",
-                "time": "02:00 PM - 02:30 PM",
-                "type": "",
-                "link": ""
+                "name": "إكس لانس",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2078167/"
             },
             {
-                "name": "زمن البرغوت",
-                "time": "02:30 PM - 03:30 PM",
-                "type": "مسلسل (2012)",
-                "link": "https://elcinema.com/work/2010769/"
+                "name": "قهوة المحطة",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2090742/"
             },
             {
-                "name": "برنامج اللى ورثناه من أجدادنا",
-                "time": "03:30 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "التاسع من فبراير",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2018)",
-                "link": "https://elcinema.com/work/2051522/"
+                "name": "الفرج بعد الشدة",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2082844/"
             }
         ]
     },
@@ -1084,22 +994,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1309_2.png",
         "programs": [
             {
-                "name": "القاتل الذي أحبني",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2022)",
-                "link": "https://elcinema.com/work/2071418/"
-            },
-            {
-                "name": "القاتل الذي أحبني",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2022)",
-                "link": "https://elcinema.com/work/2071418/"
-            },
-            {
                 "name": "درب الذهب",
-                "time": "04:00 PM - 05:00 PM",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "مسلسل (2026)",
                 "link": "https://elcinema.com/work/2097838/"
+            },
+            {
+                "name": "بصمة حدا",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2020)",
+                "link": "https://elcinema.com/work/2066260/"
+            },
+            {
+                "name": "القاتل الذي أحبني",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2071418/"
             }
         ]
     },
@@ -1108,20 +1018,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1216_2.png",
         "programs": [
             {
+                "name": "برنامج وهلق شو",
+                "time": "03:30 PM - 05:30 PM",
+                "type": "",
+                "link": ""
+            },
+            {
                 "name": "نشرة الأخبار",
-                "time": "01:45 PM - 02:30 PM",
+                "time": "05:30 PM - 06:30 PM",
                 "type": "",
                 "link": ""
             },
             {
                 "name": "برنامج",
-                "time": "02:30 PM - 03:30 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج وهلق شو",
-                "time": "03:30 PM - 05:30 PM",
+                "time": "06:30 PM - 07:30 PM",
                 "type": "",
                 "link": ""
             }
@@ -1132,20 +1042,14 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1279_2.png",
         "programs": [
             {
-                "name": "برنامج",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
                 "name": "برنامج على مسؤليتي",
                 "time": "04:00 PM - 07:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -1156,16 +1060,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1324_2.png",
         "programs": [
             {
-                "name": "The Longest Yard",
-                "time": "01:30 PM - 03:30 PM",
-                "type": "فيلم (2005)",
-                "link": "https://elcinema.com/work/2000975/"
-            },
-            {
                 "name": "Grown Ups 2",
                 "time": "03:30 PM - 05:15 PM",
                 "type": "فيلم (2013)",
                 "link": "https://elcinema.com/work/2021733/"
+            },
+            {
+                "name": "A.I. Artificial Intelligence",
+                "time": "05:15 PM - 07:45 PM",
+                "type": "فيلم (2001)",
+                "link": "https://elcinema.com/work/2005137/"
             }
         ]
     },
@@ -1174,22 +1078,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1325_2.png",
         "programs": [
             {
-                "name": "The SpongeBob Movie: Sponge Out of Water",
-                "time": "12:45 PM - 02:30 PM",
-                "type": "فيلم (2015)",
-                "link": "https://elcinema.com/work/2028141/"
-            },
-            {
-                "name": "Goosebumps",
-                "time": "02:30 PM - 04:15 PM",
-                "type": "فيلم (2015)",
-                "link": "https://elcinema.com/work/2034575/"
-            },
-            {
                 "name": "Surf's Up",
                 "time": "04:15 PM - 05:45 PM",
                 "type": "فيلم (2007)",
                 "link": "https://elcinema.com/work/2001775/"
+            },
+            {
+                "name": "A-X-L",
+                "time": "05:45 PM - 07:45 PM",
+                "type": "فيلم (2018)",
+                "link": "https://elcinema.com/work/2052043/"
             }
         ]
     },
@@ -1198,16 +1096,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1212_2.png",
         "programs": [
             {
-                "name": "One Hour Photo",
-                "time": "02:00 PM - 03:30 PM",
-                "type": "فيلم (2002)",
-                "link": "https://elcinema.com/work/2020137/"
-            },
-            {
                 "name": "Easter Sunday",
                 "time": "03:30 PM - 05:05 PM",
                 "type": "فيلم (2022)",
                 "link": "https://elcinema.com/work/2073021/"
+            },
+            {
+                "name": "Monster's Ball",
+                "time": "05:05 PM - 06:45 PM",
+                "type": "فيلم (2001)",
+                "link": "https://elcinema.com/work/2028110/"
+            },
+            {
+                "name": "The Family",
+                "time": "06:45 PM - 08:35 PM",
+                "type": "فيلم (2013)",
+                "link": "https://elcinema.com/work/2025337/"
             }
         ]
     },
@@ -1216,22 +1120,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1399_2.png",
         "programs": [
             {
-                "name": "ع الحلوة والمرة",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2021)",
-                "link": "https://elcinema.com/work/2068707/"
+                "name": "أفراح إبليس ج3",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2095829/"
             },
             {
-                "name": "ولد الغلابة",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2019)",
-                "link": "https://elcinema.com/work/2052325/"
-            },
-            {
-                "name": "بين السطور",
-                "time": "04:00 PM - 05:00 PM",
+                "name": "Bahar",
+                "time": "06:00 PM - 06:45 PM",
                 "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2078206/"
+                "link": "https://elcinema.com/work/2085180/"
+            },
+            {
+                "name": "اللعبة 2: ليفل الوحش",
+                "time": "06:45 PM - 07:30 PM",
+                "type": "مسلسل (2021)",
+                "link": "https://elcinema.com/work/2065772/"
             }
         ]
     },
@@ -1240,28 +1144,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1394_2.png",
         "programs": [
             {
-                "name": "Divorce",
-                "time": "02:00 PM - 02:30 PM",
-                "type": "مسلسل (2016)",
-                "link": "https://elcinema.com/work/2044935/"
+                "name": "How to with John Wilson",
+                "time": "05:00 PM - 05:30 PM",
+                "type": "مسلسل (2020)",
+                "link": "https://elcinema.com/work/2094098/"
             },
             {
-                "name": "Divorce",
-                "time": "02:30 PM - 03:00 PM",
-                "type": "مسلسل (2016)",
-                "link": "https://elcinema.com/work/2044935/"
+                "name": "How to with John Wilson",
+                "time": "05:30 PM - 06:00 PM",
+                "type": "مسلسل (2020)",
+                "link": "https://elcinema.com/work/2094098/"
+            },
+            {
+                "name": "Euphoria",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2019)",
+                "link": "https://elcinema.com/work/2059964/"
             },
             {
                 "name": "His Dark Materials S2",
-                "time": "03:00 PM - 04:00 PM",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "مسلسل (2020)",
                 "link": "https://elcinema.com/work/2060014/"
-            },
-            {
-                "name": "Insecure S3",
-                "time": "04:00 PM - 04:30 PM",
-                "type": "مسلسل (2018)",
-                "link": "https://elcinema.com/work/2061512/"
             }
         ]
     },
@@ -1270,20 +1174,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1246_2.png",
         "programs": [
             {
-                "name": "برنامج عالبال يا زياد",
-                "time": "01:45 PM - 02:45 PM",
+                "name": "برنامج أحاديث مع ريكاردو كرم",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
                 "name": "نشرة الاخبار",
-                "time": "02:45 PM - 03:30 PM",
+                "time": "06:00 PM - 06:20 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج شارك تانك لبنان",
-                "time": "03:30 PM - 05:00 PM",
+                "name": "برنامج عالبال يا زياد",
+                "time": "06:20 PM - 07:30 PM",
                 "type": "",
                 "link": ""
             }
@@ -1294,22 +1198,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1341_2.png",
         "programs": [
             {
-                "name": "العهد",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2089490/"
+                "name": "البدلة",
+                "time": "05:00 PM - 07:00 PM",
+                "type": "فيلم (2018)",
+                "link": "https://elcinema.com/work/2049624/"
             },
             {
-                "name": "برنامج يلا نحكي ج4",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "صيف بارد",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2018)",
-                "link": "https://elcinema.com/work/2049838/"
+                "name": "عرين الذئاب",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2026)",
+                "link": "https://elcinema.com/work/2098611/"
             }
         ]
     },
@@ -1318,26 +1216,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1382_2.png",
         "programs": [
             {
+                "name": "تحت الأرض: موسم حار",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2092412/"
+            },
+            {
+                "name": "برنامج ضفاف",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
                 "name": "برنامج مذكرات",
-                "time": "02:00 PM - 02:30 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج العربي تك",
-                "time": "02:30 PM - 03:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "صحاب الأرض",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2097153/"
-            },
-            {
-                "name": "برنامج عشرون",
-                "time": "04:00 PM - 05:00 PM",
+                "time": "07:00 PM - 07:30 PM",
                 "type": "",
                 "link": ""
             }
@@ -1348,22 +1240,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1405_2.png",
         "programs": [
             {
-                "name": "Uzak Sehir",
-                "time": "01:30 PM - 02:30 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2091404/"
+                "name": "Ezel S1",
+                "time": "04:30 PM - 05:30 PM",
+                "type": "مسلسل (2009)",
+                "link": "https://elcinema.com/work/2003115/"
             },
             {
-                "name": "Forbidden Love",
-                "time": "02:30 PM - 03:30 PM",
-                "type": "مسلسل (2008)",
-                "link": "https://elcinema.com/work/1997628/"
+                "name": "Cherry Season",
+                "time": "05:30 PM - 06:30 PM",
+                "type": "مسلسل (2014)",
+                "link": "https://elcinema.com/work/2042748/"
             },
             {
-                "name": "Establishment: Osman S1",
-                "time": "03:30 PM - 04:30 PM",
-                "type": "مسلسل (2019)",
-                "link": "https://elcinema.com/work/2060082/"
+                "name": "My Siblings",
+                "time": "06:30 PM - 07:30 PM",
+                "type": "مسلسل (2021)",
+                "link": "https://elcinema.com/work/2070624/"
             }
         ]
     },
@@ -1372,16 +1264,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1231_2.png",
         "programs": [
             {
-                "name": "Rush Hour",
-                "time": "01:25 PM - 03:00 PM",
-                "type": "فيلم (1998)",
-                "link": "https://elcinema.com/work/2004397/"
+                "name": "The Comrades of Summer",
+                "time": "04:50 PM - 06:40 PM",
+                "type": "فيلم (1992)",
+                "link": "https://elcinema.com/work/2053602/"
             },
             {
-                "name": "Grudge Match",
-                "time": "03:00 PM - 04:50 PM",
-                "type": "فيلم (2013)",
-                "link": "https://elcinema.com/work/2022439/"
+                "name": "The Winning Season",
+                "time": "06:40 PM - 08:20 PM",
+                "type": "فيلم (2009)",
+                "link": "https://elcinema.com/work/2011486/"
             }
         ]
     },
@@ -1390,16 +1282,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1392_2.png",
         "programs": [
             {
-                "name": "Harry Potter and the Order of the Phoenix",
-                "time": "12:00 PM - 02:15 PM",
-                "type": "فيلم (2007)",
-                "link": "https://elcinema.com/work/2001114/"
+                "name": "Dolphin Tale 2",
+                "time": "04:45 PM - 06:30 PM",
+                "type": "فيلم (2014)",
+                "link": "https://elcinema.com/work/2030058/"
             },
             {
-                "name": "Harry Potter and the Half-Blood Prince",
-                "time": "02:15 PM - 04:45 PM",
-                "type": "فيلم (2009)",
-                "link": "https://elcinema.com/work/1999293/"
+                "name": "Wallace & Gromit: The Curse of the Were-Rabbit",
+                "time": "06:30 PM - 07:55 PM",
+                "type": "فيلم - رسوم متحركة (2005)",
+                "link": "https://elcinema.com/work/2003032/"
             }
         ]
     },
@@ -1408,22 +1300,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1315_2.png",
         "programs": [
             {
-                "name": "رباعة ج2",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2098540/"
-            },
-            {
-                "name": "Bahar S3",
-                "time": "03:00 PM - 04:15 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2098715/"
-            },
-            {
                 "name": "Kizil Goncalar S2",
                 "time": "04:15 PM - 05:20 PM",
                 "type": "مسلسل (2024)",
                 "link": "https://elcinema.com/work/2097787/"
+            },
+            {
+                "name": "برنامج عشت وشفت",
+                "time": "05:20 PM - 06:30 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج",
+                "time": "06:30 PM - 07:30 PM",
+                "type": "",
+                "link": ""
             }
         ]
     },
@@ -1432,22 +1324,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1135_2.png",
         "programs": [
             {
-                "name": "برنامج علوم الدار",
-                "time": "02:00 PM - 03:00 PM",
+                "name": "سكواد",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2092289/"
+            },
+            {
+                "name": "برنامج وثائقي",
+                "time": "06:00 PM - 07:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "عين الذيب",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2022)",
-                "link": "https://elcinema.com/work/2073131/"
-            },
-            {
-                "name": "جودر - ألف ليلة وليلة",
-                "time": "04:00 PM - 05:00 PM",
+                "name": "البوم",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2082494/"
+                "link": "https://elcinema.com/work/2084555/"
             }
         ]
     },
@@ -1456,28 +1348,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1205_2.png",
         "programs": [
             {
-                "name": "بابا جه",
-                "time": "02:00 PM - 02:55 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2082853/"
-            },
-            {
-                "name": "جودر - ألف ليلة وليلة",
-                "time": "02:55 PM - 03:30 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2082494/"
-            },
-            {
-                "name": "وبينا ميعاد",
-                "time": "03:30 PM - 04:15 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2077183/"
-            },
-            {
                 "name": "وأنا أحبك بعد",
                 "time": "04:15 PM - 05:05 PM",
                 "type": "مسلسل (2021)",
                 "link": "https://elcinema.com/work/1442060/"
+            },
+            {
+                "name": "الكبير أوي ج7",
+                "time": "05:05 PM - 05:55 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2077350/"
+            },
+            {
+                "name": "سما عالية",
+                "time": "05:55 PM - 06:45 PM",
+                "type": "مسلسل (2021)",
+                "link": "https://elcinema.com/work/2035921/"
+            },
+            {
+                "name": "مجاريح",
+                "time": "06:45 PM - 07:30 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2075510/"
             }
         ]
     },
@@ -1486,22 +1378,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1156_2.png",
         "programs": [
             {
-                "name": "لدواعي أمنية",
-                "time": "02:00 PM - 02:30 PM",
-                "type": "مسلسل (2002)",
-                "link": "https://elcinema.com/work/1737021/"
+                "name": "طبيبة شرعية",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2078268/"
             },
             {
-                "name": "مساء الفن",
-                "time": "02:30 PM - 04:00 PM",
-                "type": "برنامج (2016)",
-                "link": "https://elcinema.com/work/2042462/"
+                "name": "عائلة الأستاذ شلش",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (1990)",
+                "link": "https://elcinema.com/work/1475094/"
             },
             {
-                "name": "العميل ١٠٠١",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2005)",
-                "link": "https://elcinema.com/work/1011574/"
+                "name": "هوانم جاردن سيتي ج2",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (1998)",
+                "link": "https://elcinema.com/work/1912785/"
             }
         ]
     },
@@ -1510,16 +1402,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1198_2.png",
         "programs": [
             {
-                "name": "وتر حساس ج2",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2095665/"
+                "name": "برنامج نمبر وان",
+                "time": "04:30 PM - 06:00 PM",
+                "type": "",
+                "link": ""
             },
             {
-                "name": "أنغام",
-                "time": "03:00 PM - 04:30 PM",
-                "type": "برنامج (2022)",
-                "link": "https://elcinema.com/work/2076177/"
+                "name": "برنامج أمسية ثقافية",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "مناعة",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2026)",
+                "link": "https://elcinema.com/work/2097616/"
             }
         ]
     },
@@ -1528,28 +1426,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1395_2.png",
         "programs": [
             {
-                "name": "Chicago Fire S14",
-                "time": "01:20 PM - 02:10 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2098192/"
-            },
-            {
-                "name": "Major Crimes S3",
-                "time": "02:10 PM - 03:00 PM",
-                "type": "مسلسل (2014)",
-                "link": "https://elcinema.com/work/2083407/"
-            },
-            {
-                "name": "Law & Order S25",
-                "time": "03:00 PM - 03:50 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2098195/"
-            },
-            {
                 "name": "True Detective S2",
                 "time": "03:50 PM - 05:10 PM",
                 "type": "مسلسل (2015)",
                 "link": "https://elcinema.com/work/2037305/"
+            },
+            {
+                "name": "Olive Kitteridge",
+                "time": "05:10 PM - 06:10 PM",
+                "type": "مسلسل (2014)",
+                "link": "https://elcinema.com/work/2035855/"
+            },
+            {
+                "name": "The Mentalist S7",
+                "time": "06:10 PM - 06:50 PM",
+                "type": "مسلسل (2014)",
+                "link": "https://elcinema.com/work/2050779/"
+            },
+            {
+                "name": "Law & Order S25",
+                "time": "06:50 PM - 07:35 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2098195/"
             }
         ]
     },
@@ -1559,27 +1457,21 @@
         "programs": [
             {
                 "name": "برنامج",
-                "time": "02:00 PM - 02:30 PM",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج",
-                "time": "02:30 PM - 03:00 PM",
-                "type": "",
-                "link": ""
+                "name": "شارع 9",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2065167/"
             },
             {
-                "name": "برنامج",
-                "time": "03:00 PM - 04:00 PM",
+                "name": "برنامج صباح الخير يا عراق",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
-            },
-            {
-                "name": "ضوء أسود",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2084085/"
             }
         ]
     },
@@ -1588,16 +1480,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1174_2.png",
         "programs": [
             {
-                "name": "وعود سخية",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2077906/"
-            },
-            {
-                "name": "برنامج حديث القاهرة",
-                "time": "03:00 PM - 04:30 PM",
+                "name": "برنامج Summary",
+                "time": "04:30 PM - 05:30 PM",
                 "type": "",
                 "link": ""
+            },
+            {
+                "name": "زواج بالإكراه",
+                "time": "05:30 PM - 06:30 PM",
+                "type": "مسلسل (2015)",
+                "link": "https://elcinema.com/work/2036083/"
+            },
+            {
+                "name": "وعود سخية",
+                "time": "06:30 PM - 07:30 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2077906/"
             }
         ]
     },
@@ -1606,22 +1504,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1259_2.png",
         "programs": [
             {
-                "name": "على صدى الخلخال",
-                "time": "02:00 PM - 02:55 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2094065/"
-            },
-            {
-                "name": "Yeh Rishta Kya Kehlata Hai",
-                "time": "02:55 PM - 04:00 PM",
-                "type": "مسلسل (2009)",
-                "link": "https://elcinema.com/work/2077098/"
-            },
-            {
                 "name": "Star Shooter",
                 "time": "04:00 PM - 06:00 PM",
                 "type": "فيلم (2023)",
                 "link": "https://elcinema.com/work/2082818/"
+            },
+            {
+                "name": "Parineetii",
+                "time": "06:00 PM - 08:00 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2091668/"
             }
         ]
     },
@@ -1630,22 +1522,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1242_2.png",
         "programs": [
             {
+                "name": "The Tom and Jerry Show S5",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل - رسوم متحركة (2021)",
+                "link": "https://elcinema.com/work/2072973/"
+            },
+            {
                 "name": "Ekans - Snakes Awake",
-                "time": "02:00 PM - 03:00 PM",
+                "time": "06:00 PM - 07:00 PM",
                 "type": "مسلسل - رسوم متحركة (2021)",
                 "link": "https://elcinema.com/work/2074916/"
             },
             {
-                "name": "The Amazing World of Gumball S1",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل - رسوم متحركة (2011)",
-                "link": "https://elcinema.com/work/2026863/"
-            },
-            {
-                "name": "Ben 10 S1",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2016)",
-                "link": "https://elcinema.com/work/2060235/"
+                "name": "Uncle Grandpa",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2010)",
+                "link": "https://elcinema.com/work/2032223/"
             }
         ]
     },
@@ -1654,22 +1546,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1299_2.png",
         "programs": [
             {
+                "name": "حكيم باشا",
+                "time": "04:30 PM - 05:30 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2088311/"
+            },
+            {
                 "name": "نبض البلد",
-                "time": "01:30 PM - 02:30 PM",
+                "time": "05:30 PM - 06:30 PM",
                 "type": "برنامج (2018)",
                 "link": "https://elcinema.com/work/2052588/"
             },
             {
-                "name": "كرڤان",
-                "time": "02:30 PM - 03:30 PM",
-                "type": "برنامج (2013)",
-                "link": "https://elcinema.com/work/2051961/"
-            },
-            {
-                "name": "أبناء القهر",
-                "time": "03:30 PM - 04:30 PM",
-                "type": "مسلسل (2002)",
-                "link": "https://elcinema.com/work/1116617/"
+                "name": "دنيا يا دنيا",
+                "time": "06:30 PM - 09:30 PM",
+                "type": "برنامج (2019)",
+                "link": "https://elcinema.com/work/2051958/"
             }
         ]
     },
@@ -1678,16 +1570,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1404_2.png",
         "programs": [
             {
-                "name": "6 Underground",
-                "time": "01:00 PM - 03:00 PM",
-                "type": "فيلم (2019)",
-                "link": "https://elcinema.com/work/2055993/"
-            },
-            {
                 "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
                 "time": "03:00 PM - 05:30 PM",
                 "type": "فيلم (2003)",
                 "link": "https://elcinema.com/work/1308229/"
+            },
+            {
+                "name": "Final Destination 2",
+                "time": "05:30 PM - 07:00 PM",
+                "type": "فيلم (2003)",
+                "link": "https://elcinema.com/work/2000697/"
+            },
+            {
+                "name": "The Bourne Identity",
+                "time": "07:00 PM - 09:00 PM",
+                "type": "فيلم (2002)",
+                "link": "https://elcinema.com/work/2001469/"
             }
         ]
     },
@@ -1696,16 +1594,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1285_2.png",
         "programs": [
             {
-                "name": "Yellow Bus",
-                "time": "01:10 PM - 03:00 PM",
-                "type": "فيلم (2023)",
-                "link": "https://elcinema.com/work/2084578/"
+                "name": "فاصل من اللحظات اللذيذة",
+                "time": "04:45 PM - 06:45 PM",
+                "type": "فيلم (2024)",
+                "link": "https://elcinema.com/work/2083657/"
             },
             {
-                "name": "مستر إكس",
-                "time": "03:00 PM - 04:45 PM",
-                "type": "فيلم (2023)",
-                "link": "https://elcinema.com/work/2073079/"
+                "name": "عيال إبليس",
+                "time": "06:45 PM - 09:45 PM",
+                "type": "مسرحية (2025)",
+                "link": "https://elcinema.com/work/2092877/"
             }
         ]
     },
@@ -1714,16 +1612,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1330_2.png",
         "programs": [
             {
-                "name": "Force of Nature",
-                "time": "01:15 PM - 03:00 PM",
-                "type": "فيلم (2020)",
-                "link": "https://elcinema.com/work/2058534/"
+                "name": "The Walking Dead S9",
+                "time": "05:00 PM - 05:50 PM",
+                "type": "مسلسل (2018)",
+                "link": "https://elcinema.com/work/2056865/"
             },
             {
-                "name": "The Twilight Saga : Eclipse",
-                "time": "03:00 PM - 05:00 PM",
-                "type": "فيلم (2010)",
-                "link": "https://elcinema.com/work/1523378/"
+                "name": "The Walking Dead S9",
+                "time": "05:50 PM - 06:40 PM",
+                "type": "مسلسل (2018)",
+                "link": "https://elcinema.com/work/2056865/"
             }
         ]
     },
@@ -1732,28 +1630,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1340_2.png",
         "programs": [
             {
-                "name": "The Family S2",
-                "time": "01:30 PM - 02:05 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2085362/"
-            },
-            {
-                "name": "عائلتي تربح",
-                "time": "02:05 PM - 03:05 PM",
-                "type": "برنامج (2019)",
-                "link": "https://elcinema.com/work/2064319/"
-            },
-            {
-                "name": "طيبة",
-                "time": "03:05 PM - 04:00 PM",
-                "type": "مسلسل (2021)",
-                "link": "https://elcinema.com/work/2068393/"
-            },
-            {
                 "name": "كلام نواعم",
                 "time": "04:00 PM - 05:30 PM",
                 "type": "برنامج (2002)",
                 "link": "https://elcinema.com/work/2008294/"
+            },
+            {
+                "name": "في مثل هذا اليوم",
+                "time": "05:30 PM - 06:25 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2079238/"
+            },
+            {
+                "name": "عائلتي تربح",
+                "time": "06:25 PM - 07:15 PM",
+                "type": "برنامج (2019)",
+                "link": "https://elcinema.com/work/2064319/"
+            },
+            {
+                "name": "النويلاتي",
+                "time": "07:15 PM - 08:00 PM",
+                "type": "مسلسل (2026)",
+                "link": "https://elcinema.com/work/2097140/"
             }
         ]
     },
@@ -1762,16 +1660,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1132_2.png",
         "programs": [
             {
-                "name": "The Accountant",
-                "time": "01:30 PM - 04:00 PM",
-                "type": "فيلم (2016)",
-                "link": "https://elcinema.com/work/2037729/"
-            },
-            {
                 "name": "Hell or High Water",
                 "time": "04:00 PM - 06:00 PM",
                 "type": "فيلم (2016)",
                 "link": "https://elcinema.com/work/2043429/"
+            },
+            {
+                "name": "Live By Night",
+                "time": "06:00 PM - 08:00 PM",
+                "type": "فيلم (2016)",
+                "link": "https://elcinema.com/work/2011238/"
             }
         ]
     },
@@ -1780,22 +1678,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1329_2.png",
         "programs": [
             {
+                "name": "Transplant S4",
+                "time": "04:40 PM - 05:40 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2083867/"
+            },
+            {
                 "name": "Will Trent S3",
-                "time": "02:00 PM - 02:45 PM",
+                "time": "05:40 PM - 06:25 PM",
                 "type": "مسلسل (2025)",
                 "link": "https://elcinema.com/work/2099608/"
-            },
-            {
-                "name": "Britain's Got Talent 14",
-                "time": "02:45 PM - 04:00 PM",
-                "type": "برنامج (2020)",
-                "link": "https://elcinema.com/work/2066763/"
-            },
-            {
-                "name": "Grey's Anatomy S21",
-                "time": "04:00 PM - 04:40 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2099214/"
             }
         ]
     },
@@ -1804,22 +1696,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1398_2.png",
         "programs": [
             {
-                "name": "Baba",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2022)",
-                "link": "https://elcinema.com/work/2077165/"
+                "name": "خمسة ونص",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2019)",
+                "link": "https://elcinema.com/work/2053422/"
             },
             {
-                "name": "برنامج أخذ ورد",
-                "time": "03:00 PM - 03:30 PM",
-                "type": "",
-                "link": ""
+                "name": "صقر قريش",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2002)",
+                "link": "https://elcinema.com/work/1403957/"
             },
             {
-                "name": "برنامج بوح",
-                "time": "03:30 PM - 05:00 PM",
-                "type": "",
-                "link": ""
+                "name": "أشواك ناعمة",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2005)",
+                "link": "https://elcinema.com/work/1207075/"
             }
         ]
     },
@@ -1828,34 +1720,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1396_2.png",
         "programs": [
             {
-                "name": "John from Cincinnati",
-                "time": "01:10 PM - 02:05 PM",
-                "type": "مسلسل (2007)",
-                "link": "https://elcinema.com/work/2004186/"
+                "name": "The Best Man: The Final Chapters",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2083266/"
             },
             {
-                "name": "My Mum, Your Dad",
-                "time": "02:05 PM - 02:55 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2094320/"
+                "name": "Californication S3",
+                "time": "06:00 PM - 06:35 PM",
+                "type": "مسلسل (2009)",
+                "link": "https://elcinema.com/work/2062867/"
             },
             {
-                "name": "Red Bull Driftbrothers",
-                "time": "02:55 PM - 03:10 PM",
-                "type": "مسلسل (2019)",
-                "link": "https://elcinema.com/work/2095840/"
+                "name": "Californication S3",
+                "time": "06:35 PM - 07:00 PM",
+                "type": "مسلسل (2009)",
+                "link": "https://elcinema.com/work/2062867/"
             },
             {
                 "name": "The Real Housewives of Dubai",
-                "time": "03:10 PM - 04:00 PM",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "مسلسل (2022)",
                 "link": "https://elcinema.com/work/2094418/"
-            },
-            {
-                "name": "My Brilliant Friend S4",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2088180/"
             }
         ]
     },
@@ -1864,32 +1750,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1336_2.png",
         "programs": [
             {
-                "name": "الخاطبة",
-                "time": "02:00 PM - 02:30 PM",
-                "type": "مسلسل - فوازير (1981)",
-                "link": "https://elcinema.com/work/1011340/"
+                "name": "يوميات ونيس ج1",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (1994)",
+                "link": "https://elcinema.com/work/1011316/"
             },
             {
-                "name": "ألف ليلة وليلة: علي بابا والأربعين حرامي",
-                "time": "02:30 PM - 03:00 PM",
-                "type": "مسلسل (1995)",
-                "link": "https://elcinema.com/work/1613197/"
-            },
-            {
-                "name": "برنامج حديث الروح",
-                "time": "03:00 PM - 03:15 PM",
+                "name": "برنامج أفلام ومهرجانات",
+                "time": "06:00 PM - 07:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "في قافلة الزمان",
-                "time": "03:15 PM - 04:00 PM",
-                "type": "مسلسل (1984)",
-                "link": "https://elcinema.com/work/2050026/"
-            },
-            {
-                "name": "برنامج",
-                "time": "04:00 PM - 05:00 PM",
+                "name": "حفل غنائي",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -1900,20 +1774,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1130_2.png",
         "programs": [
             {
-                "name": "FIFA Intercontinental Cup 2026",
-                "time": "01:25 PM - 03:30 PM",
-                "type": "",
-                "link": ""
-            },
-            {
                 "name": "Kingdom",
-                "time": "03:30 PM - 04:00 PM",
+                "time": "05:00 PM - 05:30 PM",
                 "type": "مسلسل - رسوم متحركة (2012)",
                 "link": "https://elcinema.com/work/2070566/"
             },
             {
+                "name": "ملخص ايل اوف مان",
+                "time": "05:30 PM - 07:15 PM",
+                "type": "",
+                "link": ""
+            },
+            {
                 "name": "برنامجThe Summit",
-                "time": "04:00 PM - 05:00 PM",
+                "time": "07:15 PM - 08:20 PM",
                 "type": "",
                 "link": ""
             }
@@ -1924,20 +1798,14 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1159_2.png",
         "programs": [
             {
-                "name": "برنامج صفحة جديدة",
-                "time": "02:00 PM - 03:30 PM",
+                "name": "برنامج المصوراتي",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "بسنت ودياسطي ج1",
-                "time": "03:30 PM - 04:00 PM",
-                "type": "مسلسل (2008)",
-                "link": "https://elcinema.com/work/2006063/"
-            },
-            {
-                "name": "برنامج",
-                "time": "04:00 PM - 05:00 PM",
+                "name": "فيلم",
+                "time": "06:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -1948,20 +1816,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1168_2.png",
         "programs": [
             {
-                "name": "برنامج عالبال يا زياد",
-                "time": "01:45 PM - 02:45 PM",
+                "name": "برنامج أحاديث مع ريكاردو كرم",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
                 "name": "نشرة الاخبار",
-                "time": "02:45 PM - 03:30 PM",
+                "time": "06:00 PM - 06:20 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج شارك تانك لبنان",
-                "time": "03:30 PM - 05:00 PM",
+                "name": "برنامج عالبال يا زياد",
+                "time": "06:20 PM - 07:30 PM",
                 "type": "",
                 "link": ""
             }
@@ -1972,22 +1840,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1371_2.png",
         "programs": [
             {
-                "name": "فاطمة ج2",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2011)",
-                "link": "https://elcinema.com/work/2078320/"
+                "name": "الأوراق المتساقطة 3",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2008)",
+                "link": "https://elcinema.com/work/2010024/"
             },
             {
-                "name": "A Miracle 2",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2020)",
-                "link": "https://elcinema.com/work/2101228/"
-            },
-            {
-                "name": "Erkenci Kus",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2018)",
-                "link": "https://elcinema.com/work/2053185/"
+                "name": "فيلم",
+                "time": "06:00 PM - 08:00 PM",
+                "type": "",
+                "link": ""
             }
         ]
     },
@@ -1996,22 +1858,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1390_2.png",
         "programs": [
             {
-                "name": "Cranberry Sorbet",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2022)",
-                "link": "https://elcinema.com/work/2083228/"
+                "name": "My Siblings S4",
+                "time": "04:45 PM - 05:40 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2084013/"
+            },
+            {
+                "name": "Kizil Goncalar S2",
+                "time": "05:40 PM - 06:30 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2097787/"
             },
             {
                 "name": "Deep in Love",
-                "time": "03:00 PM - 04:00 PM",
+                "time": "06:30 PM - 07:20 PM",
                 "type": "مسلسل (2025)",
                 "link": "https://elcinema.com/work/2096892/"
             },
             {
-                "name": "Forbidden Apple S4",
-                "time": "04:00 PM - 04:45 PM",
-                "type": "مسلسل (2020)",
-                "link": "https://elcinema.com/work/2077592/"
+                "name": "Cranberry Sorbet",
+                "time": "07:20 PM - 08:10 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2083228/"
             }
         ]
     },
@@ -2020,14 +1888,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1203_2.png",
         "programs": [
             {
-                "name": "فن الحرب",
-                "time": "01:30 PM - 03:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2096564/"
+                "name": "فيلم عربي",
+                "time": "04:30 PM - 06:30 PM",
+                "type": "",
+                "link": ""
             },
             {
-                "name": "برنامج كلمة أخيرة",
-                "time": "03:00 PM - 04:30 PM",
+                "name": "الكاميرا الخفية",
+                "time": "06:30 PM - 07:00 PM",
+                "type": "برنامج - برنامج ترفيهي (2026)",
+                "link": "https://elcinema.com/work/2098891/"
+            },
+            {
+                "name": "برنامج",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -2038,16 +1912,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1176_2.png",
         "programs": [
             {
-                "name": "المشبوه",
-                "time": "02:00 PM - 04:00 PM",
-                "type": "فيلم (1981)",
-                "link": "https://elcinema.com/work/1001704/"
-            },
-            {
                 "name": "البنات والمرسيدس",
                 "time": "04:00 PM - 06:00 PM",
                 "type": "فيلم (1973)",
                 "link": "https://elcinema.com/work/1059152/"
+            },
+            {
+                "name": "الشيطان يقدم حلا",
+                "time": "06:00 PM - 08:00 PM",
+                "type": "فيلم (1991)",
+                "link": "https://elcinema.com/work/1003497/"
             }
         ]
     },
@@ -2056,22 +1930,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1290_2.png",
         "programs": [
             {
-                "name": "قسمة العدل",
-                "time": "01:15 PM - 03:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2096187/"
-            },
-            {
-                "name": "وثائقي",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
                 "name": "صاحبة السعادة",
                 "time": "04:00 PM - 06:30 PM",
                 "type": "برنامج (2014)",
                 "link": "https://elcinema.com/work/2029608/"
+            },
+            {
+                "name": "ميد تيرم",
+                "time": "06:30 PM - 08:30 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2096106/"
             }
         ]
     },
@@ -2080,22 +1948,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1147_2.png",
         "programs": [
             {
+                "name": "وتقابل حبيب",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2089079/"
+            },
+            {
+                "name": "الحلانجي",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2091319/"
+            },
+            {
                 "name": "The Phoenix",
-                "time": "02:00 PM - 03:00 PM",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "مسلسل (2020)",
                 "link": "https://elcinema.com/work/2099398/"
-            },
-            {
-                "name": "نظرة حب",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2083878/"
-            },
-            {
-                "name": "ضمير مستتر",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل - قصير (2026)",
-                "link": "https://elcinema.com/work/2075312/"
             }
         ]
     },
@@ -2104,28 +1972,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1334_2.png",
         "programs": [
             {
-                "name": "صور متحركة",
-                "time": "02:00 PM - 02:35 PM",
+                "name": "شوفلي حل ج6",
+                "time": "04:30 PM - 05:15 PM",
+                "type": "مسلسل (2009)",
+                "link": "https://elcinema.com/work/1925628/"
+            },
+            {
+                "name": "الخطاب على الباب",
+                "time": "05:15 PM - 06:15 PM",
+                "type": "مسلسل (1996)",
+                "link": "https://elcinema.com/work/1813608/"
+            },
+            {
+                "name": "سوبر فاميلي ج2",
+                "time": "06:15 PM - 07:05 PM",
+                "type": "مسلسل (2017)",
+                "link": "https://elcinema.com/work/2085737/"
+            },
+            {
+                "name": "فقرة غنائية: عبد الحليم حافظ",
+                "time": "07:05 PM - 07:45 PM",
                 "type": "",
                 "link": ""
-            },
-            {
-                "name": "كود زين",
-                "time": "02:35 PM - 03:00 PM",
-                "type": "مسلسل - سيت كوم (2025)",
-                "link": "https://elcinema.com/work/2091740/"
-            },
-            {
-                "name": "برنامج أحكيلي عليها",
-                "time": "03:00 PM - 03:30 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "شرع الحب",
-                "time": "03:30 PM - 04:30 PM",
-                "type": "مسلسل (2005)",
-                "link": "https://elcinema.com/work/2051301/"
             }
         ]
     },
@@ -2134,22 +2002,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1227_2.png",
         "programs": [
             {
-                "name": "أحلى أيام",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل - سيت كوم (2013)",
-                "link": "https://elcinema.com/work/2020132/"
+                "name": "العهد",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2089490/"
             },
             {
-                "name": "دنيا تانية",
-                "time": "03:00 PM - 04:00 PM",
+                "name": "ريا وسكينة",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2005)",
+                "link": "https://elcinema.com/work/1326791/"
+            },
+            {
+                "name": "وجوه",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "مسلسل (2022)",
-                "link": "https://elcinema.com/work/2073432/"
-            },
-            {
-                "name": "قلع الحجر",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2083531/"
+                "link": "https://elcinema.com/work/2073212/"
             }
         ]
     },
@@ -2158,20 +2026,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1385_2.png",
         "programs": [
             {
+                "name": "برنامج الحكم الرابع",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
                 "name": "أخبار",
-                "time": "02:00 PM - 03:00 PM",
+                "time": "06:00 PM - 07:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج بتوقيت العاصمة",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج المقاربة",
-                "time": "04:00 PM - 05:00 PM",
+                "name": "برنامج",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -2182,20 +2050,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1280_2.png",
         "programs": [
             {
-                "name": "بالورقة والقلم",
-                "time": "02:00 PM - 03:30 PM",
-                "type": "برنامج (2017)",
-                "link": "https://elcinema.com/work/2052674/"
-            },
-            {
-                "name": "برنامج تن هوليوود",
-                "time": "03:30 PM - 04:00 PM",
+                "name": "برنامج البريمو",
+                "time": "04:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج البريمو",
-                "time": "04:00 PM - 06:00 PM",
+                "name": "بيت الشدة",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2073124/"
+            },
+            {
+                "name": "برنامج لايف ستايل",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -2206,16 +2074,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1217_2.png",
         "programs": [
             {
-                "name": "أغاني الأفلام أبيض وإسود",
-                "time": "02:00 PM - 02:30 PM",
+                "name": "حفل أم كلثوم",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "مسجل خطر",
-                "time": "02:30 PM - 04:30 PM",
-                "type": "فيلم (1991)",
-                "link": "https://elcinema.com/work/1001283/"
+                "name": "إعدام ميت",
+                "time": "06:00 PM - 08:30 PM",
+                "type": "فيلم (1985)",
+                "link": "https://elcinema.com/work/1010300/"
             }
         ]
     },
@@ -2224,20 +2092,14 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1298_2.png",
         "programs": [
             {
-                "name": "برنامج بصراحة",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "",
-                "link": ""
+                "name": "مرايا 2003",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2003)",
+                "link": "https://elcinema.com/work/1365904/"
             },
             {
-                "name": "برنامج هاتريك",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج خفايا الحكاية",
-                "time": "04:00 PM - 04:30 PM",
+                "name": "برنامج صح صح",
+                "time": "06:00 PM - 07:35 PM",
                 "type": "",
                 "link": ""
             }
@@ -2248,16 +2110,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1211_2.png",
         "programs": [
             {
-                "name": "Man of Steel",
-                "time": "01:10 PM - 03:30 PM",
-                "type": "فيلم (2013)",
-                "link": "https://elcinema.com/work/2005392/"
-            },
-            {
                 "name": "Rush Hour",
                 "time": "03:30 PM - 05:05 PM",
                 "type": "فيلم (1998)",
                 "link": "https://elcinema.com/work/2004397/"
+            },
+            {
+                "name": "Rush Hour 2",
+                "time": "05:05 PM - 06:35 PM",
+                "type": "فيلم (2001)",
+                "link": "https://elcinema.com/work/2006362/"
+            },
+            {
+                "name": "Godzilla: King of the Monsters",
+                "time": "06:35 PM - 09:00 PM",
+                "type": "فيلم (2019)",
+                "link": "https://elcinema.com/work/2046494/"
             }
         ]
     },
@@ -2266,28 +2134,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1393_2.png",
         "programs": [
             {
-                "name": "Vigil S3",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2101623/"
-            },
-            {
-                "name": "Peacemaker S2",
-                "time": "03:00 PM - 03:40 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2095968/"
-            },
-            {
-                "name": "Political Animals",
-                "time": "03:40 PM - 04:25 PM",
-                "type": "مسلسل (2012)",
-                "link": "https://elcinema.com/work/2025539/"
-            },
-            {
                 "name": "Brilliant Minds S2",
                 "time": "04:25 PM - 05:10 PM",
                 "type": "مسلسل (2025)",
                 "link": "https://elcinema.com/work/2096620/"
+            },
+            {
+                "name": "Brilliant Minds S2",
+                "time": "05:10 PM - 05:55 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2096620/"
+            },
+            {
+                "name": "Black Snow S2",
+                "time": "05:55 PM - 06:50 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2091405/"
+            },
+            {
+                "name": "Political Animals",
+                "time": "06:50 PM - 07:45 PM",
+                "type": "مسلسل (2012)",
+                "link": "https://elcinema.com/work/2025539/"
             }
         ]
     },
@@ -2296,22 +2164,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1127_2.png",
         "programs": [
             {
-                "name": "البيت الملعون",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل - قصير (2024)",
-                "link": "https://elcinema.com/work/2082727/"
-            },
-            {
-                "name": "الأخبار MBC",
-                "time": "03:00 PM - 03:30 PM",
+                "name": "برنامج نادينا",
+                "time": "05:00 PM - 06:30 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "كلام نواعم",
-                "time": "03:30 PM - 05:00 PM",
-                "type": "برنامج (2002)",
-                "link": "https://elcinema.com/work/2008294/"
+                "name": "Tozluyaka",
+                "time": "06:30 PM - 07:00 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2078492/"
+            },
+            {
+                "name": "من كثر حبي لك",
+                "time": "07:00 PM - 07:40 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2082404/"
             }
         ]
     },
@@ -2320,22 +2188,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1297_2.png",
         "programs": [
             {
-                "name": "عيلة الملك",
-                "time": "02:00 PM - 03:00 PM",
+                "name": "برنامج دورينا غير",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "هارون الرشيد",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2018)",
+                "link": "https://elcinema.com/work/2050735/"
+            },
+            {
+                "name": "السوق الحرة",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2097145/"
-            },
-            {
-                "name": "بعد النهاية",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2024)",
-                "link": "https://elcinema.com/work/2077527/"
-            },
-            {
-                "name": "فارس بلا جواز",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2021)",
-                "link": "https://elcinema.com/work/2068006/"
+                "link": "https://elcinema.com/work/2098009/"
             }
         ]
     },
@@ -2344,40 +2212,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1304_2.png",
         "programs": [
             {
-                "name": "برنامج",
-                "time": "02:00 PM - 02:30 PM",
+                "name": "Cranberry Sorbet",
+                "time": "05:00 PM - 05:45 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2083228/"
+            },
+            {
+                "name": "My Home My Destiny",
+                "time": "05:45 PM - 06:30 PM",
+                "type": "مسلسل (2019)",
+                "link": "https://elcinema.com/work/2065349/"
+            },
+            {
+                "name": "برنامج أيمو ماج",
+                "time": "06:30 PM - 07:15 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج",
-                "time": "02:30 PM - 02:45 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "Meryem",
-                "time": "02:45 PM - 03:15 PM",
-                "type": "مسلسل (2017)",
-                "link": "https://elcinema.com/work/2082354/"
-            },
-            {
-                "name": "برنامج",
-                "time": "03:15 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج اليد في اليد",
-                "time": "04:00 PM - 04:20 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "نسيبتي العزيزة ج6",
-                "time": "04:20 PM - 05:00 PM",
-                "type": "مسلسل (2016)",
-                "link": "https://elcinema.com/work/2063156/"
+                "name": "My Home My Destiny",
+                "time": "07:15 PM - 07:45 PM",
+                "type": "مسلسل (2019)",
+                "link": "https://elcinema.com/work/2065349/"
             }
         ]
     },
@@ -2386,34 +2242,34 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1241_2.png",
         "programs": [
             {
+                "name": "Die Wilden Kerle",
+                "time": "05:00 PM - 05:30 PM",
+                "type": "مسلسل (2012)",
+                "link": "https://elcinema.com/work/2063562/"
+            },
+            {
                 "name": "Transformers: Earthspark",
-                "time": "02:00 PM - 02:30 PM",
+                "time": "05:30 PM - 06:00 PM",
                 "type": "مسلسل - رسوم متحركة (2022)",
                 "link": "https://elcinema.com/work/2088833/"
             },
             {
                 "name": "Space Nova",
-                "time": "02:30 PM - 03:00 PM",
+                "time": "06:00 PM - 06:30 PM",
                 "type": "مسلسل (2020)",
                 "link": "https://elcinema.com/work/2078419/"
             },
             {
                 "name": "Yu-Gi-Oh! Sevens",
-                "time": "03:00 PM - 03:30 PM",
+                "time": "06:30 PM - 07:00 PM",
                 "type": "مسلسل - رسوم متحركة (2020)",
                 "link": "https://elcinema.com/work/2101485/"
             },
             {
-                "name": "Pirate Academy",
-                "time": "03:30 PM - 04:00 PM",
-                "type": "مسلسل - رسوم متحركة (2024)",
-                "link": "https://elcinema.com/work/2090999/"
-            },
-            {
-                "name": "Sonic Boom",
-                "time": "04:00 PM - 04:30 PM",
-                "type": "مسلسل (2014)",
-                "link": "https://elcinema.com/work/2041319/"
+                "name": "The Casagrandes",
+                "time": "07:00 PM - 07:30 PM",
+                "type": "مسلسل (2019)",
+                "link": "https://elcinema.com/work/2072825/"
             }
         ]
     },
@@ -2422,20 +2278,14 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1302_2.png",
         "programs": [
             {
-                "name": "برنامج القوة",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "",
-                "link": ""
+                "name": "المصيدة",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2026)",
+                "link": "https://elcinema.com/work/2097334/"
             },
             {
-                "name": "برنامج وثائقي",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج",
-                "time": "04:00 PM - 05:00 PM",
+                "name": "برنامج صباح الخير يا وطن",
+                "time": "06:00 PM - 07:30 PM",
                 "type": "",
                 "link": ""
             }
@@ -2446,22 +2296,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1292_2.png",
         "programs": [
             {
-                "name": "بين عالمين",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2017)",
-                "link": "https://elcinema.com/work/2044361/"
+                "name": "قسمة العدل",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2026)",
+                "link": "https://elcinema.com/work/2096187/"
             },
             {
-                "name": "ضل راجل",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2021)",
-                "link": "https://elcinema.com/work/2066778/"
-            },
-            {
-                "name": "ميد تيرم",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2096106/"
+                "name": "عمر أفندي",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2024)",
+                "link": "https://elcinema.com/work/2085850/"
             }
         ]
     },
@@ -2470,28 +2314,34 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1352_2.png",
         "programs": [
             {
-                "name": "برنامج ذرة خير",
-                "time": "02:00 PM - 02:30 PM",
-                "type": "",
-                "link": ""
+                "name": "طويق 2",
+                "time": "05:00 PM - 05:50 PM",
+                "type": "برنامج (2024)",
+                "link": "https://elcinema.com/work/2092370/"
             },
             {
-                "name": "الشارع السعودي",
-                "time": "02:30 PM - 03:30 PM",
-                "type": "برنامج (2021)",
-                "link": "https://elcinema.com/work/2085889/"
+                "name": "مشراق",
+                "time": "05:50 PM - 06:30 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2073319/"
             },
             {
                 "name": "أخبار",
-                "time": "03:30 PM - 04:00 PM",
+                "time": "06:30 PM - 06:45 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "أنا ولا أنا",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2097710/"
+                "name": "ديرتنا",
+                "time": "06:45 PM - 07:20 PM",
+                "type": "برنامج (2021)",
+                "link": "https://elcinema.com/work/2085694/"
+            },
+            {
+                "name": "مشراق",
+                "time": "07:20 PM - 07:50 PM",
+                "type": "مسلسل (2022)",
+                "link": "https://elcinema.com/work/2073319/"
             }
         ]
     },
@@ -2500,20 +2350,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1101_2.png",
         "programs": [
             {
-                "name": "فوق مستوى الشبهات",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2016)",
-                "link": "https://elcinema.com/work/2028642/"
-            },
-            {
-                "name": "التاسعة",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "برنامج (2020)",
-                "link": "https://elcinema.com/work/2025107/"
-            },
-            {
                 "name": "برنامج من ماسبيرو",
                 "time": "04:00 PM - 06:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج رقم 10",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -2524,22 +2374,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1327_2.png",
         "programs": [
             {
-                "name": "Shark Tank",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "برنامج (2009)",
-                "link": "https://elcinema.com/work/2041678/"
-            },
-            {
-                "name": "Matlock S2",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2100099/"
-            },
-            {
-                "name": "The Other Bennet Sister",
-                "time": "04:00 PM - 05:00 PM",
+                "name": "The Miniature Wife",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2099532/"
+                "link": "https://elcinema.com/work/2098682/"
+            },
+            {
+                "name": "1883",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2021)",
+                "link": "https://elcinema.com/work/2092861/"
+            },
+            {
+                "name": "Yellowjackets S2",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2077488/"
             }
         ]
     },
@@ -2548,22 +2398,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1223_2.png",
         "programs": [
             {
-                "name": "ستهم",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2076689/"
+                "name": "السوق الحرة",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2026)",
+                "link": "https://elcinema.com/work/2098009/"
             },
             {
-                "name": "أبو العروسة ج2",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "مسلسل (2018)",
-                "link": "https://elcinema.com/work/2033856/"
+                "name": "يوميات زوجة مفروسة أوي ج3",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (2017)",
+                "link": "https://elcinema.com/work/1674169/"
             },
             {
-                "name": "الضوء الشارد",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "مسلسل (1998)",
-                "link": "https://elcinema.com/work/1010862/"
+                "name": "اتهام",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "مسلسل (2014)",
+                "link": "https://elcinema.com/work/2029375/"
             }
         ]
     },
@@ -2572,28 +2422,28 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1296_2.png",
         "programs": [
             {
-                "name": "أخبار",
-                "time": "01:45 PM - 02:30 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "Three Sisters",
-                "time": "02:30 PM - 03:30 PM",
-                "type": "مسلسل (2022)",
-                "link": "https://elcinema.com/work/2084617/"
-            },
-            {
-                "name": "خطيئة أخيرة",
-                "time": "03:30 PM - 04:20 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2093055/"
-            },
-            {
                 "name": "أنا",
                 "time": "04:20 PM - 05:30 PM",
                 "type": "مسلسل (2021)",
                 "link": "https://elcinema.com/work/2067911/"
+            },
+            {
+                "name": "صالون زهرة",
+                "time": "05:30 PM - 06:00 PM",
+                "type": "مسلسل (2021)",
+                "link": "https://elcinema.com/work/2068695/"
+            },
+            {
+                "name": "أخبار",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "",
+                "link": ""
+            },
+            {
+                "name": "برنامج",
+                "time": "07:00 PM - 08:00 PM",
+                "type": "",
+                "link": ""
             }
         ]
     },
@@ -2602,16 +2452,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1354_2.png",
         "programs": [
             {
-                "name": "الهيبة: راس الجبل",
-                "time": "01:05 PM - 04:05 PM",
-                "type": "مسلسل (2026)",
-                "link": "https://elcinema.com/work/2098244/"
+                "name": "بصراحة مع",
+                "time": "04:30 PM - 05:25 PM",
+                "type": "برنامج (2021)",
+                "link": "https://elcinema.com/work/2078631/"
             },
             {
-                "name": "فاصل ونواصل",
-                "time": "04:05 PM - 04:30 PM",
-                "type": "برنامج (2023)",
-                "link": "https://elcinema.com/work/2079096/"
+                "name": "تحت سابع أرض",
+                "time": "05:25 PM - 06:55 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2089297/"
+            },
+            {
+                "name": "نادي الرجال السري",
+                "time": "06:55 PM - 08:50 PM",
+                "type": "فيلم (2019)",
+                "link": "https://elcinema.com/work/2051055/"
             }
         ]
     },
@@ -2620,16 +2476,16 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1355_2.png",
         "programs": [
             {
-                "name": "John Wick",
-                "time": "02:00 PM - 04:00 PM",
-                "type": "فيلم (2014)",
-                "link": "https://elcinema.com/work/2033451/"
-            },
-            {
                 "name": "The Darkest Minds",
                 "time": "04:00 PM - 06:00 PM",
                 "type": "فيلم (2018)",
                 "link": "https://elcinema.com/work/2051348/"
+            },
+            {
+                "name": "The Ring",
+                "time": "06:00 PM - 08:00 PM",
+                "type": "فيلم (2002)",
+                "link": "https://elcinema.com/work/2002247/"
             }
         ]
     },
@@ -2638,40 +2494,34 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1257_2.png",
         "programs": [
             {
-                "name": "Friends S10",
-                "time": "02:00 PM - 02:25 PM",
-                "type": "مسلسل - سيت كوم (2003)",
-                "link": "https://elcinema.com/work/2061887/"
-            },
-            {
-                "name": "The Big Bang Theory S5",
-                "time": "02:25 PM - 02:45 PM",
-                "type": "مسلسل (2011)",
-                "link": "https://elcinema.com/work/2020581/"
-            },
-            {
-                "name": "The Big Bang Theory S6",
-                "time": "02:45 PM - 03:20 PM",
-                "type": "مسلسل (2012)",
-                "link": "https://elcinema.com/work/2025304/"
-            },
-            {
-                "name": "Hacks S4",
-                "time": "03:20 PM - 03:55 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2092800/"
-            },
-            {
-                "name": "Hacks S4",
-                "time": "03:55 PM - 04:25 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2092800/"
-            },
-            {
                 "name": "Hung S2",
-                "time": "04:25 PM - 04:55 PM",
+                "time": "04:55 PM - 05:25 PM",
                 "type": "مسلسل (2010)",
                 "link": "https://elcinema.com/work/2076688/"
+            },
+            {
+                "name": "Curb Your Enthusiasm S1",
+                "time": "05:25 PM - 05:55 PM",
+                "type": "مسلسل (2000)",
+                "link": "https://elcinema.com/work/1584965/"
+            },
+            {
+                "name": "Curb Your Enthusiasm S1",
+                "time": "05:55 PM - 06:20 PM",
+                "type": "مسلسل (2000)",
+                "link": "https://elcinema.com/work/1584965/"
+            },
+            {
+                "name": "Veep S4",
+                "time": "06:20 PM - 06:50 PM",
+                "type": "مسلسل (2015)",
+                "link": "https://elcinema.com/work/2053877/"
+            },
+            {
+                "name": "Hacks S4",
+                "time": "06:50 PM - 07:30 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2092800/"
             }
         ]
     },
@@ -2680,28 +2530,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1283_2.png",
         "programs": [
             {
+                "name": "البواسل",
+                "time": "05:00 PM - 06:00 PM",
+                "type": "مسلسل (2000)",
+                "link": "https://elcinema.com/work/1529842/"
+            },
+            {
+                "name": "بيت الوالد",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "مسلسل (1998)",
+                "link": "https://elcinema.com/work/1460835/"
+            },
+            {
                 "name": "ليالي الحلمية ج4",
-                "time": "02:00 PM - 02:30 PM",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "مسلسل (1992)",
                 "link": "https://elcinema.com/work/1650610/"
-            },
-            {
-                "name": "برنامج سين جيم",
-                "time": "02:30 PM - 03:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج الاوائل",
-                "time": "03:00 PM - 04:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "منوعات غنائية",
-                "time": "04:00 PM - 05:00 PM",
-                "type": "",
-                "link": ""
             }
         ]
     },
@@ -2710,28 +2554,22 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1188_2.png",
         "programs": [
             {
-                "name": "أخبار",
-                "time": "02:00 PM - 02:30 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج لغة وأدب وفن",
-                "time": "02:30 PM - 03:00 PM",
+                "name": "ملخص برنامج الخط المباشر",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
                 "name": "برنامج",
-                "time": "03:00 PM - 04:00 PM",
+                "time": "06:00 PM - 07:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "فضة",
-                "time": "04:00 PM - 04:35 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2090396/"
+                "name": "برنامج أماسي",
+                "time": "07:00 PM - 07:40 PM",
+                "type": "",
+                "link": ""
             }
         ]
     },
@@ -2740,20 +2578,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1306_2.png",
         "programs": [
             {
-                "name": "برنامج الثامنة",
-                "time": "02:00 PM - 03:00 PM",
+                "name": "برنامج",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج طريق الوطن",
-                "time": "03:00 PM - 04:00 PM",
+                "name": "برنامج",
+                "time": "06:00 PM - 07:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "برنامج مع ياسر عامر",
-                "time": "04:00 PM - 05:00 PM",
+                "name": "برنامج",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
@@ -2764,28 +2602,34 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1131_2.png",
         "programs": [
             {
-                "name": "الهيبة (جبل)",
-                "time": "02:00 PM - 02:47 PM",
-                "type": "مسلسل (2021)",
-                "link": "https://elcinema.com/work/2069272/"
-            },
-            {
-                "name": "كذبة إبريل",
-                "time": "02:47 PM - 03:30 PM",
-                "type": "مسلسل (2023)",
-                "link": "https://elcinema.com/work/2076837/"
-            },
-            {
-                "name": "Parineetii",
-                "time": "03:30 PM - 04:14 PM",
-                "type": "مسلسل (2022)",
-                "link": "https://elcinema.com/work/2091668/"
-            },
-            {
                 "name": "Wild Bees",
                 "time": "04:14 PM - 05:23 PM",
                 "type": "مسلسل (2019)",
                 "link": "https://elcinema.com/work/2085365/"
+            },
+            {
+                "name": "Kafeel",
+                "time": "05:23 PM - 06:03 PM",
+                "type": "مسلسل (2025)",
+                "link": "https://elcinema.com/work/2100171/"
+            },
+            {
+                "name": "الهيبة (جبل)",
+                "time": "06:03 PM - 06:42 PM",
+                "type": "مسلسل (2021)",
+                "link": "https://elcinema.com/work/2069272/"
+            },
+            {
+                "name": "اللهم إني صايم",
+                "time": "06:42 PM - 07:24 PM",
+                "type": "مسلسل (2017)",
+                "link": "https://elcinema.com/work/2034699/"
+            },
+            {
+                "name": "كذبة إبريل",
+                "time": "07:24 PM - 08:00 PM",
+                "type": "مسلسل (2023)",
+                "link": "https://elcinema.com/work/2076837/"
             }
         ]
     },
@@ -2794,20 +2638,8 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1275_2.png",
         "programs": [
             {
-                "name": "برنامج لغز اختفاء المفقودين",
-                "time": "02:00 PM - 03:00 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج جنكيز خان: التاريخ السري للمغول",
-                "time": "03:00 PM - 03:45 PM",
-                "type": "",
-                "link": ""
-            },
-            {
-                "name": "برنامج الكولوسيوم: الصعود والسقوط",
-                "time": "03:45 PM - 04:30 PM",
+                "name": "برنامج كوارث هندسية",
+                "time": "04:30 PM - 05:15 PM",
                 "type": "",
                 "link": ""
             }
@@ -2818,26 +2650,20 @@
         "channel_logo": "https://media0106.elcinema.com/tvguide/1339_2.png",
         "programs": [
             {
-                "name": "زهرة القصر ج2",
-                "time": "01:00 PM - 02:30 PM",
-                "type": "مسلسل (2014)",
-                "link": "https://elcinema.com/work/2064111/"
-            },
-            {
-                "name": "برنامج سنابل الخير",
-                "time": "02:30 PM - 03:10 PM",
+                "name": "برنامج",
+                "time": "05:00 PM - 06:00 PM",
                 "type": "",
                 "link": ""
             },
             {
-                "name": "دروب المرجلة ج2",
-                "time": "03:10 PM - 04:00 PM",
-                "type": "مسلسل (2025)",
-                "link": "https://elcinema.com/work/2092341/"
+                "name": "برنامج",
+                "time": "06:00 PM - 07:00 PM",
+                "type": "",
+                "link": ""
             },
             {
-                "name": "برنامج كليك تكنواوجي",
-                "time": "04:00 PM - 05:00 PM",
+                "name": "برنامج",
+                "time": "07:00 PM - 08:00 PM",
                 "type": "",
                 "link": ""
             }
